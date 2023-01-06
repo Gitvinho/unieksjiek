@@ -84,7 +84,7 @@
           "fe983528-5e03-42db-886a-dacee2df8ef8": {
             "type": "text",
             "settings": {
-              "title": "Theme Unity",
+              "title": "Unieksjiek.nl",
               "text": "<p>Deel winkeldetails, promoties of merkcontent met je klanten.<\/p>",
               "social_text_check": true
             }
@@ -129,8 +129,8 @@
           "company_returnemail": "Jouw retour e-mailadres",
           "company_returnadres": "Jouw retour adres",
           "show_payment_icons": true,
-          "show_locale_selector": true,
-          "show_currency_selector": true,
+          "show_locale_selector": false,
+          "show_currency_selector": false,
           "section_title": "Abonneren op onze nieuwsbrief",
           "subheading": "<p>Promoties, nieuwe producten en uitverkoop rechtstreeks in je inbox.<\/p>",
           "show_background": true,
