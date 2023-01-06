@@ -1,0 +1,694 @@
+{
+  "current": {
+    "color_body_text": "#000000",
+    "color_navbar_text": "#00bcd4",
+    "color_newsletter_bg": "#00bcd4",
+    "color_footer_text": "#000000",
+    "color_newsletter_text": "#ffffff",
+    "color_footer_bg": "#ffffff",
+    "show_btn_gradient": false,
+    "color_cart_button": "#00b900",
+    "color_cart_button_gradient": "#009300",
+    "color_cart_button_text": "#ffffff",
+    "color_text_field_text": "#000000",
+    "color_text_field_border": "#ebebeb",
+    "color_text_field": "#ffffff",
+    "type_header_font": "avenir_next_n6",
+    "type_header_base_size": 26,
+    "type_base_font": "avenir_next_n4",
+    "type_base_size": 15,
+    "usp_1_icon": "check",
+    "usp_1": "Vóór 15u besteld, volgende dag in huis",
+    "usp_2_icon": "check",
+    "usp_2": "Bedenktijd van 14 dagen",
+    "usp_3_icon": "check",
+    "usp_3": "Gratis retourneren",
+    "usp_4_icon": "check",
+    "usp_4": "Gratis verzending vanaf € 40",
+    "product_text_align": "text-center",
+    "product_price_display": "with_currency",
+    "contact_title": "Mijn Bedrijf",
+    "contact_adres": "Teststraat 1",
+    "contact_phone": "0612345678",
+    "contact_email": "info@instijlmedia.nl",
+    "share_twitter": true,
+    "share_pinterest": false,
+    "social_twitter_link": "https:\/\/twitter.com\/shopify",
+    "social_facebook_link": "https:\/\/facebook.com\/shopify",
+    "social_pinterest_link": "https:\/\/pinterest.com\/shopify",
+    "social_instagram_link": "http:\/\/instagram.com\/shopify",
+    "social_tumblr_link": "",
+    "social_snapchat_link": "",
+    "social_youtube_link": "https:\/\/www.youtube.com\/shopify",
+    "social_vimeo_link": "",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "medium",
+    "checkout_body_background_color": "#fff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_accent_color": "#197bbd",
+    "checkout_button_color": "#197bbd",
+    "checkout_error_color": "#e32c2b",
+    "color_borders": "#ebebeb",
+    "color_body_bg": "#ffffff",
+    "color_sale_text": "#EA0606",
+    "color_text": "#3a3a3a",
+    "color_primary_button": "#00bcd4",
+    "color_primary_button_text": "#ffffff",
+    "color_secondary_button": "#293439",
+    "color_secondary_button_text": "#ffffff",
+    "color_small_button_text_border": "#3a3a3a",
+    "color_image_overlay_text": "#ffffff",
+    "color_image_overlay": "#685858",
+    "image_overlay_opacity": 40,
+    "sections": {
+      "header": {
+        "type": "header",
+        "settings": {
+          "align_logo": "left",
+          "logo": "shopify:\/\/shop_images\/logo_6216c5c6-f35d-44a9-8481-b5174d7f8eab.png",
+          "logo_max_width": 244,
+          "message": false,
+          "home_page_only": true,
+          "message_text": "Kondig hier iets aan",
+          "message_link": "",
+          "color_bg": "#3a3a3a",
+          "color_text": "#ffffff",
+          "hallmark": "shopify:\/\/shop_images\/hallmark.png"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "fe983528-5e03-42db-886a-dacee2df8ef8": {
+            "type": "text",
+            "settings": {
+              "title": "Theme Unity",
+              "text": "<p>Deel winkeldetails, promoties of merkcontent met je klanten.<\/p>",
+              "social_text_check": true
+            }
+          },
+          "a83cb3c8-156f-462e-bdc0-77f03e7af8e5": {
+            "type": "contact",
+            "settings": {
+              "title": "Contactgegevens",
+              "company_title": "Jouw bedrijf",
+              "company_email": "Jouw e-mailadres",
+              "company_phone": "06-12345678",
+              "company_address": "Jouw adres",
+              "social_contact_check": false
+            }
+          },
+          "2e348fe4-6f10-48a2-a547-9c30af218789": {
+            "type": "link_list",
+            "settings": {
+              "title": "Categorieën",
+              "menu": "",
+              "title_2": "Footer Titel 2",
+              "menu_2": ""
+            }
+          },
+          "footer-0": {
+            "type": "link_list",
+            "settings": {
+              "title": "Klantenservice",
+              "menu": "",
+              "title_2": "Footer Titel 2",
+              "menu_2": ""
+            }
+          }
+        },
+        "block_order": [
+          "fe983528-5e03-42db-886a-dacee2df8ef8",
+          "a83cb3c8-156f-462e-bdc0-77f03e7af8e5",
+          "2e348fe4-6f10-48a2-a547-9c30af218789",
+          "footer-0"
+        ],
+        "settings": {
+          "company_returnemail": "Jouw retour e-mailadres",
+          "company_returnadres": "Jouw retour adres",
+          "show_payment_icons": true,
+          "show_locale_selector": true,
+          "show_currency_selector": true,
+          "section_title": "Abonneren op onze nieuwsbrief",
+          "subheading": "<p>Promoties, nieuwe producten en uitverkoop rechtstreeks in je inbox.<\/p>",
+          "show_background": true,
+          "account_link": "\/Account",
+          "account_title": "Snel regelen in je account",
+          "account_description": "<p>Volg je bestelling, betaal facturen of retourneer een artikel.<\/p>",
+          "service_link": "shopify:\/\/pages\/klantenservice",
+          "service_title": "Heb je ons nodig?",
+          "service_description": "<p>We helpen je graag. Pleeg onze klantenservice raad.<\/p>"
+        }
+      },
+      "1616861933ddaffe7f": {
+        "type": "index-slider",
+        "blocks": {
+          "1616861933ddaffe7f-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/1020x484.png",
+              "slide_title": "Voer hier je tekst in",
+              "subheading": "Vertel met afbeeldingen het verhaal van je merk",
+              "button_label": "Bekijken",
+              "button_link": "shopify:\/\/collections\/bank"
+            }
+          }
+        },
+        "block_order": [
+          "1616861933ddaffe7f-0"
+        ],
+        "settings": {
+          "homepage_style": "service",
+          "phone": "06123456789",
+          "whatsapp": "0612345678",
+          "email": "info@jouwbedrijf.nl",
+          "monday": "9:00-17:00",
+          "tuesday": "9:00-17:00",
+          "wednesday": "9:00-17:00",
+          "thursday": "9:00-17:00",
+          "friday": "9:00-17:00",
+          "saturday": "Gesloten",
+          "sunday": "Gesloten",
+          "reviews_star_count": 5,
+          "reviews_score": "9.8",
+          "reviews_count": "46",
+          "button_1_label": "",
+          "button_1_link": "",
+          "button_2_label": "",
+          "button_2_link": ""
+        }
+      },
+      "1616861964c499ad32": {
+        "type": "index-categories",
+        "blocks": {
+          "1616861964c499ad32-0": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "accessoires",
+              "button_label": "Banken"
+            }
+          },
+          "1616861964c499ad32-2": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "vloerkleden",
+              "button_label": "Meubels"
+            }
+          },
+          "1616861964c499ad32-1": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "verlichting",
+              "button_label": "Verlichting"
+            }
+          },
+          "45c88cb6-ea40-4135-8881-e43920a5d8bd": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "woonaccessoires",
+              "button_label": "Woonaccessoires"
+            }
+          }
+        },
+        "block_order": [
+          "1616861964c499ad32-0",
+          "1616861964c499ad32-2",
+          "1616861964c499ad32-1",
+          "45c88cb6-ea40-4135-8881-e43920a5d8bd"
+        ],
+        "settings": {
+          "category_type": "carousel"
+        }
+      },
+      "161686197671dbe9d4": {
+        "type": "index-usp",
+        "blocks": {
+          "01f70aa3-bbbe-4043-9776-cef87dd5d67b": {
+            "type": "image",
+            "settings": {
+              "usp_icon": "fa-check",
+              "usp": "Vóór 22u besteld, volgende dag in huis",
+              "usp_desc": "Voer hier een omschrijving in.",
+              "usp_url": ""
+            }
+          },
+          "2b4eb16b-e3b2-4544-8eac-b3ea414c400b": {
+            "type": "image",
+            "settings": {
+              "usp_icon": "fa-check",
+              "usp": "Snelle levering",
+              "usp_desc": "Voer hier een omschrijving in.",
+              "usp_url": ""
+            }
+          },
+          "0572b603-27a1-410e-922f-237ec5b26560": {
+            "type": "image",
+            "settings": {
+              "usp_icon": "fa-check",
+              "usp": "Gratis verzending vanaf € 40",
+              "usp_desc": "Voer hier een omschrijving in.",
+              "usp_url": ""
+            }
+          },
+          "e3f82f1e-12e9-4284-a204-603db2655bc1": {
+            "type": "image",
+            "settings": {
+              "usp_icon": "fa-check",
+              "usp": "Ook avondbezorging",
+              "usp_desc": "Voer hier een omschrijving in.",
+              "usp_url": ""
+            }
+          }
+        },
+        "block_order": [
+          "01f70aa3-bbbe-4043-9776-cef87dd5d67b",
+          "2b4eb16b-e3b2-4544-8eac-b3ea414c400b",
+          "0572b603-27a1-410e-922f-237ec5b26560",
+          "e3f82f1e-12e9-4284-a204-603db2655bc1"
+        ],
+        "settings": {
+          "show_usp_desc": false,
+          "color_usp_bg": "#ffffff",
+          "icon_set": "fontawesome"
+        }
+      },
+      "1616870854acab16f7": {
+        "type": "index-products",
+        "settings": {
+          "title": "Uitgelichte collectie",
+          "title_text_align": "text-left",
+          "title_font_weight": "font-weight-normal",
+          "collection": "frontpage"
+        }
+      },
+      "161687118262c5b574": {
+        "type": "index-usp",
+        "blocks": {
+          "794c8b4f-ea61-4ed0-b4b2-3e800b425524": {
+            "type": "image",
+            "settings": {
+              "usp_icon": "check",
+              "usp": "Vóór 15u besteld, volgende dag in huis",
+              "usp_desc": "Voer hier een omschrijving in.",
+              "usp_url": ""
+            }
+          },
+          "e6a1fabe-e6b2-473c-a16f-df222e87c8c6": {
+            "type": "image",
+            "settings": {
+              "usp_icon": "check",
+              "usp": "Snelle levering",
+              "usp_desc": "Voer hier een omschrijving in.",
+              "usp_url": ""
+            }
+          },
+          "e791085b-e1f2-41d2-9301-9a1737c493f1": {
+            "type": "image",
+            "settings": {
+              "usp_icon": "check",
+              "usp": "Gratis verzending vanaf € 40",
+              "usp_desc": "Voer hier een omschrijving in.",
+              "usp_url": ""
+            }
+          },
+          "af05c297-5f6d-4f8a-b6e9-4740baa00c59": {
+            "type": "image",
+            "settings": {
+              "usp_icon": "check",
+              "usp": "Ook avondbezorging",
+              "usp_desc": "Voer hier een omschrijving in.",
+              "usp_url": ""
+            }
+          }
+        },
+        "block_order": [
+          "794c8b4f-ea61-4ed0-b4b2-3e800b425524",
+          "e6a1fabe-e6b2-473c-a16f-df222e87c8c6",
+          "e791085b-e1f2-41d2-9301-9a1737c493f1",
+          "af05c297-5f6d-4f8a-b6e9-4740baa00c59"
+        ],
+        "settings": {
+          "show_usp_desc": true,
+          "color_usp_bg": "#f7f7f7",
+          "icon_set": "feathericons"
+        }
+      },
+      "1616871232bc4ca106": {
+        "type": "index-blogs",
+        "settings": {
+          "title": "Blogberichten",
+          "title_text_align": "text-left",
+          "title_font_weight": "font-weight-normal",
+          "blog": "nieuws",
+          "blog_show_author": false,
+          "blog_show_date": true,
+          "show_view_all": true
+        }
+      },
+      "16168712536193d590": {
+        "type": "index-brands",
+        "blocks": {
+          "16168712536193d590-0": {
+            "type": "brand_image",
+            "settings": {
+              "title": "Merk",
+              "link": ""
+            }
+          },
+          "16168712536193d590-1": {
+            "type": "brand_image",
+            "settings": {
+              "title": "Merk",
+              "link": ""
+            }
+          },
+          "16168712536193d590-2": {
+            "type": "brand_image",
+            "settings": {
+              "title": "Merk",
+              "link": ""
+            }
+          },
+          "16168712536193d590-3": {
+            "type": "brand_image",
+            "settings": {
+              "title": "Merk",
+              "link": ""
+            }
+          },
+          "16168712536193d590-4": {
+            "type": "brand_image",
+            "settings": {
+              "title": "Merk",
+              "link": ""
+            }
+          },
+          "16168712536193d590-5": {
+            "type": "brand_image",
+            "settings": {
+              "title": "Merk",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "16168712536193d590-0",
+          "16168712536193d590-1",
+          "16168712536193d590-2",
+          "16168712536193d590-3",
+          "16168712536193d590-4",
+          "16168712536193d590-5"
+        ],
+        "settings": {
+          "title": "Merken",
+          "title_text_align": "text-left",
+          "title_font_weight": "font-weight-normal",
+          "brands_titles": false
+        }
+      },
+      "cart-template": {
+        "type": "cart-template",
+        "settings": {
+          "cart_notes_enable": true,
+          "title": "En wat vind je van deze?",
+          "title_text_align": "text-left",
+          "title_font_weight": "font-weight-normal",
+          "upsells": "accessoires"
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "settings": {
+          "show_vendor": true,
+          "show_quantity_selector": false,
+          "free_shipping_text": "Gratis verzending",
+          "order_before": "8",
+          "shipping_timer": "23:59:59",
+          "product_usp_1": "2 jaar <b> garantie<\/b>",
+          "product_usp_2": "Gratis binnen <b>30 dagen<\/b> te retourneren",
+          "product_usp_3": "<b>100 dagen<\/b> bedenktijd",
+          "shopify_reviews": true
+        }
+      },
+      "product-recommendations": {
+        "type": "product-recommendations",
+        "settings": {
+          "heading": "Wellicht vind je dit ook leuk"
+        }
+      },
+      "1619611365f6111029": {
+        "type": "index-content",
+        "blocks": {
+          "1619611365f6111029-0": {
+            "type": "text",
+            "settings": {
+              "title": "Het nieuwe, verfrissende thema van InStijl Media",
+              "text": "<p><a href=\"https:\/\/theme-unity.webshopapp.com\/nl\/\">Unity theme<\/a>, het thema dat staat voor eenheid. <a href=\"https:\/\/theme-unity.webshopapp.com\/nl\/\">Unity Theme<\/a> is het nieuwe, verfrissende thema van <a href=\"http:\/\/www.instijlmedia.nl\/\">InStijl Media<\/a>. Het thema omvat een clean design met tal van nieuwe en verbeterde functionaliteiten. Uiterst gebruiksvriendelijk op elk device door het ontwerp van drie unieke ontwerpen voor desktop, tablet en mobiel. Bovendien volledig getest op snelheid en SEO geoptimaliseerd door specialisten uit de branche.<\/p><p>Laat u verrassen door het <a href=\"https:\/\/theme-unity.webshopapp.com\/nl\/\">Unity Theme<\/a>, dat zich laat vertalen in eenheid, en dit ook uitstraalt. Met enkele klikken heeft u al de basis voor uw webshop en dit geheel volgens de laatste trends!<\/p>",
+              "width": "50%",
+              "alignment": "center",
+              "align_text": "left"
+            }
+          },
+          "e48d8327-3fe8-4dbd-80a4-ea700efc35fd": {
+            "type": "contact",
+            "settings": {
+              "contact_form": true,
+              "width": "50%"
+            }
+          }
+        },
+        "block_order": [
+          "1619611365f6111029-0",
+          "e48d8327-3fe8-4dbd-80a4-ea700efc35fd"
+        ],
+        "settings": {
+          "title": "Aangepaste content",
+          "title_text_align": "text-left",
+          "title_font_weight": "font-weight-normal"
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "settings": {
+          "grid": 3,
+          "rows": 4,
+          "show_collection_image": false,
+          "sort_enable": true
+        }
+      }
+    },
+    "content_for_index": [
+      "1616861933ddaffe7f",
+      "161686197671dbe9d4",
+      "1616861964c499ad32",
+      "1616870854acab16f7",
+      "161687118262c5b574",
+      "1616871232bc4ca106",
+      "1619611365f6111029",
+      "16168712536193d590"
+    ]
+  },
+  "presets": {
+    "Living": {
+      "color_body_text": "#000000",
+      "color_sale_text": "#EA0606",
+      "color_navbar_text": "#00bcd4",
+      "color_footer_text": "#ffffff",
+      "color_footer_bg": "#00bcd4",
+      "show_btn_gradient": false,
+      "color_cart_button": "#00b900",
+      "color_cart_button_gradient": "#009300",
+      "color_cart_button_text": "#ffffff",
+      "color_text_field_text": "#000000",
+      "color_text_field_border": "#cccccc",
+      "color_text_field": "#ffffff",
+      "color_borders": "#ebebeb",
+      "color_body_bg": "#ffffff",
+      "color_newsletter_bg": "#f2f7fc",
+      "color_newsletter_text": "#00bcd4",
+      "type_header_font": "avenir_next_n6",
+      "type_header_base_size": 26,
+      "type_base_font": "avenir_next_n4",
+      "type_base_size": 15,
+      "usp_1_icon": "check",
+      "usp_1": "Vóór 15u besteld, volgende dag in huis",
+      "usp_2_icon": "check",
+      "usp_2": "Bedenktijd van 14 dagen",
+      "usp_3_icon": "check",
+      "usp_3": "Gratis retourneren",
+      "usp_4_icon": "check",
+      "usp_4": "Gratis verzending vanaf € 40",
+      "product_text_align": "text-center",
+      "product_price_display": "with_currency",
+      "contact_title": "Mijn Bedrijf",
+      "contact_adres": "Teststraat 1",
+      "contact_phone": "0612345678",
+      "contact_email": "info@instijlmedia.nl",
+      "share_pinterest": false,
+      "social_twitter_link": "https:\/\/twitter.com\/shopify",
+      "social_facebook_link": "https:\/\/facebook.com\/shopify",
+      "social_instagram_link": "http:\/\/instagram.com\/shopify",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_body_background_color": "#fff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+      "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+      "checkout_accent_color": "#197bbd",
+      "checkout_button_color": "#197bbd",
+      "checkout_error_color": "#e32c2b",
+      "color_text": "#3a3a3a",
+      "color_primary_button": "#00bcd4",
+      "color_primary_button_text": "#ffffff",
+      "color_secondary_button": "#293439",
+      "color_secondary_button_text": "#ffffff",
+      "color_small_button_text_border": "#3a3a3a",
+      "color_image_overlay_text": "#ffffff",
+      "color_image_overlay": "#685858",
+      "image_overlay_opacity": 40,
+      "content_for_index": [
+
+      ]
+    },
+    "Mode": {
+      "color_body_text": "#000000",
+      "color_sale_text": "#EA0606",
+      "color_navbar_text": "#000000",
+      "color_footer_text": "#ffffff",
+      "color_topnav_bg": "#ffffff",
+      "color_navbar_bg": "#ffffff",
+      "color_footer_bg": "#6c9399",
+      "show_btn_gradient": false,
+      "color_primary": "#6c9399",
+      "color_primary_gradient": "#6c9399",
+      "color_secondary": "#c49e4b",
+      "color_cart_button": "#c49e4b",
+      "color_cart_button_gradient": "#c49e4b",
+      "color_cart_button_text": "#ffffff",
+      "color_text_field_text": "#000000",
+      "color_text_field_border": "#cccccc",
+      "color_text_field": "#ffffff",
+      "color_borders": "#ebebeb",
+      "color_body_bg": "#ffffff",
+      "color_newsletter_bg": "#f2f7fc",
+      "color_newsletter_text": "#6c9399",
+      "type_header_font": "avenir_next_n6",
+      "type_header_base_size": 26,
+      "type_base_font": "avenir_next_n4",
+      "type_base_size": 15,
+      "usp_1_icon": "check",
+      "usp_1": "Vóór 15u besteld, volgende dag in huis",
+      "usp_2_icon": "check",
+      "usp_2": "Bedenktijd van 14 dagen",
+      "usp_3_icon": "check",
+      "usp_3": "Gratis retourneren",
+      "usp_4_icon": "check",
+      "usp_4": "Gratis verzending vanaf € 40",
+      "product_text_align": "text-center",
+      "product_price_display": "with_currency",
+      "contact_title": "Mijn Bedrijf",
+      "contact_adres": "Teststraat 1",
+      "contact_phone": "0612345678",
+      "contact_email": "info@instijlmedia.nl",
+      "share_pinterest": false,
+      "social_twitter_link": "https:\/\/twitter.com\/shopify",
+      "social_facebook_link": "https:\/\/facebook.com\/shopify",
+      "social_instagram_link": "http:\/\/instagram.com\/shopify",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_body_background_color": "#fff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+      "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+      "checkout_accent_color": "#197bbd",
+      "checkout_button_color": "#197bbd",
+      "checkout_error_color": "#e32c2b",
+      "color_text": "#3a3a3a",
+      "color_primary_button": "#00bcd4",
+      "color_primary_button_text": "#ffffff",
+      "color_secondary_button": "#293439",
+      "color_secondary_button_text": "#ffffff",
+      "color_small_button_text_border": "#3a3a3a",
+      "color_image_overlay_text": "#ffffff",
+      "color_image_overlay": "#685858",
+      "image_overlay_opacity": 40,
+      "content_for_index": [
+
+      ]
+    },
+    "Outdoor": {
+      "color_body_text": "#000000",
+      "color_sale_text": "#EA0606",
+      "color_topnav_text": "#000000",
+      "color_navbar_text": "#000000",
+      "color_footer_text": "#ffffff",
+      "color_topnav_bg": "#ffffff",
+      "color_navbar_bg": "#ffffff",
+      "color_footer_bg": "#3a3a3a",
+      "show_btn_gradient": false,
+      "color_primary": "#626262",
+      "color_primary_gradient": "#626262",
+      "color_secondary": "#626262",
+      "color_secondary_text": "#ffffff",
+      "color_cart_button": "#f38730",
+      "color_cart_button_gradient": "#f38730",
+      "color_cart_button_text": "#ffffff",
+      "color_text_field_text": "#000000",
+      "color_text_field_border": "#cccccc",
+      "color_text_field": "#ffffff",
+      "color_borders": "#ebebeb",
+      "color_body_bg": "#ffffff",
+      "color_newsletter_bg": "#ebebeb",
+      "color_newsletter_text": "#f38730",
+      "type_header_font": "avenir_next_n6",
+      "type_header_base_size": 26,
+      "type_base_font": "avenir_next_n4",
+      "type_base_size": 15,
+      "usp_1_icon": "check",
+      "usp_1": "Vóór 15u besteld, volgende dag in huis",
+      "usp_2_icon": "check",
+      "usp_2": "Bedenktijd van 14 dagen",
+      "usp_3_icon": "check",
+      "usp_3": "Gratis retourneren",
+      "usp_4_icon": "check",
+      "usp_4": "Gratis verzending vanaf € 40",
+      "product_text_align": "text-center",
+      "product_price_display": "with_currency",
+      "contact_title": "Mijn Bedrijf",
+      "contact_adres": "Teststraat 1",
+      "contact_phone": "0612345678",
+      "contact_email": "info@instijlmedia.nl",
+      "share_pinterest": false,
+      "social_twitter_link": "https:\/\/twitter.com\/shopify",
+      "social_facebook_link": "https:\/\/facebook.com\/shopify",
+      "social_instagram_link": "http:\/\/instagram.com\/shopify",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_body_background_color": "#fff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+      "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+      "checkout_accent_color": "#197bbd",
+      "checkout_button_color": "#197bbd",
+      "checkout_error_color": "#e32c2b",
+      "color_text": "#3a3a3a",
+      "color_primary_button": "#00bcd4",
+      "color_primary_button_text": "#ffffff",
+      "color_secondary_button": "#293439",
+      "color_secondary_button_text": "#ffffff",
+      "color_small_button_text_border": "#3a3a3a",
+      "color_image_overlay_text": "#ffffff",
+      "color_image_overlay": "#685858",
+      "image_overlay_opacity": 40,
+      "content_for_index": [
+
+      ]
+    }
+  }
+}
