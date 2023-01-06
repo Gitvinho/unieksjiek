@@ -68,15 +68,14 @@
         "type": "header",
         "settings": {
           "align_logo": "left",
-          "logo": "shopify:\/\/shop_images\/logo_6216c5c6-f35d-44a9-8481-b5174d7f8eab.png",
-          "logo_max_width": 244,
+          "logo": "shopify:\/\/shop_images\/LogoUS_enkel_LR.png",
+          "logo_max_width": 70,
           "message": false,
           "home_page_only": true,
           "message_text": "Kondig hier iets aan",
           "message_link": "",
           "color_bg": "#3a3a3a",
-          "color_text": "#ffffff",
-          "hallmark": "shopify:\/\/shop_images\/hallmark.png"
+          "color_text": "#ffffff"
         }
       },
       "footer": {
@@ -149,7 +148,6 @@
           "1616861933ddaffe7f-0": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/1020x484.png",
               "slide_title": "Voer hier je tekst in",
               "subheading": "Vertel met afbeeldingen het verhaal van je merk",
               "button_label": "Bekijken",
