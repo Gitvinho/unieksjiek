@@ -7,6 +7,7 @@
     "color_newsletter_text": "#ffffff",
     "color_footer_bg": "#ffffff",
     "show_btn_gradient": false,
+    "color_primary": "#aeccb4",
     "color_cart_button": "#00b900",
     "color_cart_button_gradient": "#009300",
     "color_cart_button_text": "#ffffff",
@@ -41,6 +42,7 @@
     "social_snapchat_link": "",
     "social_youtube_link": "",
     "social_vimeo_link": "",
+    "favicon": "shopify:\/\/shop_images\/LogoUS_enkel_LR.png",
     "checkout_logo_position": "left",
     "checkout_logo_size": "medium",
     "checkout_body_background_color": "#fff",
@@ -201,7 +203,7 @@
             "type": "featured_collection",
             "settings": {
               "collection": "verlichting",
-              "button_label": "Verlichting"
+              "button_label": "Cadeaubonnen"
             }
           },
           "45c88cb6-ea40-4135-8881-e43920a5d8bd": {
