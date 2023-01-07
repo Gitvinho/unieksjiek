@@ -123,8 +123,8 @@
             "settings": {
               "title": "Klantenservice",
               "menu": "",
-              "title_2": "Footer Titel 2",
-              "menu_2": ""
+              "title_2": "Contact opnemen",
+              "menu_2": "contact"
             }
           }
         },
@@ -275,7 +275,7 @@
           "e3f82f1e-12e9-4284-a204-603db2655bc1": {
             "type": "image",
             "settings": {
-              "usp_icon": "",
+              "usp_icon": "fa-check",
               "usp": "",
               "usp_desc": "",
               "usp_url": ""
@@ -310,8 +310,8 @@
             "type": "image",
             "settings": {
               "usp_icon": "check",
-              "usp": "Binnen 2 werkdagen verzonden",
-              "usp_desc": "",
+              "usp": "Vóór 15u besteld, volgende dag in huis",
+              "usp_desc": "Voer hier een omschrijving in.",
               "usp_url": ""
             }
           },
@@ -320,7 +320,7 @@
             "settings": {
               "usp_icon": "check",
               "usp": "Snelle levering",
-              "usp_desc": "",
+              "usp_desc": "Voer hier een omschrijving in.",
               "usp_url": ""
             }
           },
@@ -328,8 +328,8 @@
             "type": "image",
             "settings": {
               "usp_icon": "check",
-              "usp": "Gratis verzending vanaf € 25",
-              "usp_desc": "",
+              "usp": "Gratis verzending vanaf € 40",
+              "usp_desc": "Voer hier een omschrijving in.",
               "usp_url": ""
             }
           },
@@ -337,8 +337,8 @@
             "type": "image",
             "settings": {
               "usp_icon": "check",
-              "usp": "",
-              "usp_desc": "",
+              "usp": "Ook avondbezorging",
+              "usp_desc": "Voer hier een omschrijving in.",
               "usp_url": ""
             }
           }
