@@ -113,7 +113,7 @@
             "type": "link_list",
             "settings": {
               "title": "Categorieën",
-              "menu": "",
+              "menu": "categorie-n",
               "title_2": "Footer Titel 2",
               "menu_2": ""
             }
