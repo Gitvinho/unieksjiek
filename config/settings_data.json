@@ -8,7 +8,7 @@
     "color_topnav_bg": "#ffffff",
     "color_navbar_bg": "#aeccb4",
     "color_newsletter_text": "#ffffff",
-    "color_footer_bg": "#aeccb4",
+    "color_footer_bg": "#ffffff",
     "show_btn_gradient": false,
     "color_primary": "#aeccb4",
     "color_primary_gradient": "#198ae7",
@@ -496,6 +496,14 @@
           "rows": 4,
           "show_collection_image": false,
           "sort_enable": true
+        }
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "settings": {
+          "display_type": "all",
+          "sort": "alphabetical",
+          "grid": 3
         }
       }
     },
