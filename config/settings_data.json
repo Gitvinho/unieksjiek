@@ -443,13 +443,15 @@
         "settings": {
           "show_vendor": true,
           "show_quantity_selector": false,
-          "free_shipping_text": "Gratis verzending",
+          "free_shipping_text": "",
           "order_before": "8",
-          "shipping_timer": "23:59:59",
+          "enable_payment_button": true,
+          "shipping_timer": "",
           "product_usp_1": "2 jaar <b> garantie<\/b>",
           "product_usp_2": "Gratis binnen <b>30 dagen<\/b> te retourneren",
           "product_usp_3": "<b>100 dagen<\/b> bedenktijd",
-          "shopify_reviews": true
+          "shopify_reviews": true,
+          "show_share_buttons": true
         }
       },
       "product-recommendations": {
