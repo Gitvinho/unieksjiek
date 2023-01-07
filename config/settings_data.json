@@ -192,10 +192,17 @@
       "1616861964c499ad32": {
         "type": "index-categories",
         "blocks": {
+          "f4c567d7-18da-4bd1-a60a-2f2d72581e7c": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "hangen",
+              "button_label": ""
+            }
+          },
           "1616861964c499ad32-0": {
             "type": "featured_collection",
             "settings": {
-              "collection": "accessoires",
+              "collection": "hangen",
               "button_label": "Hangen"
             }
           },
@@ -220,20 +227,21 @@
               "button_label": "Woonaccessoires"
             }
           },
-          "f4c567d7-18da-4bd1-a60a-2f2d72581e7c": {
+          "3d5c8c7a-7b55-4227-bf0a-cfbe98553624": {
             "type": "featured_collection",
             "settings": {
-              "collection": "hangen",
+              "collection": "",
               "button_label": ""
             }
           }
         },
         "block_order": [
+          "f4c567d7-18da-4bd1-a60a-2f2d72581e7c",
           "1616861964c499ad32-0",
           "1616861964c499ad32-2",
           "1616861964c499ad32-1",
           "45c88cb6-ea40-4135-8881-e43920a5d8bd",
-          "f4c567d7-18da-4bd1-a60a-2f2d72581e7c"
+          "3d5c8c7a-7b55-4227-bf0a-cfbe98553624"
         ],
         "settings": {
           "category_type": "carousel"
