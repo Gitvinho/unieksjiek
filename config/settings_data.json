@@ -406,23 +406,15 @@
             "type": "text",
             "settings": {
               "title": "Het nieuwe, verfrissende thema van InStijl Media",
-              "text": "<p><a href=\"https:\/\/theme-unity.webshopapp.com\/nl\/\">Unity theme<\/a>, het thema dat staat voor eenheid. <a href=\"https:\/\/theme-unity.webshopapp.com\/nl\/\">Unity Theme<\/a> is het nieuwe, verfrissende thema van <a href=\"http:\/\/www.instijlmedia.nl\/\">InStijl Media<\/a>. Het thema omvat een clean design met tal van nieuwe en verbeterde functionaliteiten. Uiterst gebruiksvriendelijk op elk device door het ontwerp van drie unieke ontwerpen voor desktop, tablet en mobiel. Bovendien volledig getest op snelheid en SEO geoptimaliseerd door specialisten uit de branche.<\/p><p>Laat u verrassen door het <a href=\"https:\/\/theme-unity.webshopapp.com\/nl\/\">Unity Theme<\/a>, dat zich laat vertalen in eenheid, en dit ook uitstraalt. Met enkele klikken heeft u al de basis voor uw webshop en dit geheel volgens de laatste trends!<\/p>",
+              "text": "<p>We zijn live! Nu een mega introductiekorting van 25% op alle producten!<\/p>",
               "width": "50%",
               "alignment": "center",
               "align_text": "left"
             }
-          },
-          "e48d8327-3fe8-4dbd-80a4-ea700efc35fd": {
-            "type": "contact",
-            "settings": {
-              "contact_form": true,
-              "width": "50%"
-            }
           }
         },
         "block_order": [
-          "1619611365f6111029-0",
-          "e48d8327-3fe8-4dbd-80a4-ea700efc35fd"
+          "1619611365f6111029-0"
         ],
         "settings": {
           "title": "Aangepaste content",
