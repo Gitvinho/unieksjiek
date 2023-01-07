@@ -258,7 +258,7 @@
             "type": "image",
             "settings": {
               "usp_icon": "fa-check",
-              "usp": "Snelle levering",
+              "usp": "Niet goed, geld terug",
               "usp_desc": "",
               "usp_url": ""
             }
@@ -275,7 +275,7 @@
           "e3f82f1e-12e9-4284-a204-603db2655bc1": {
             "type": "image",
             "settings": {
-              "usp_icon": "Fa check",
+              "usp_icon": "fa-check",
               "usp": "Snelle levering",
               "usp_desc": "",
               "usp_url": ""
