@@ -210,7 +210,7 @@
             "type": "featured_collection",
             "settings": {
               "collection": "puzzelen",
-              "button_label": "Cadeaubonnen"
+              "button_label": "Puzzelen"
             }
           },
           "f4c567d7-18da-4bd1-a60a-2f2d72581e7c": {
@@ -219,37 +219,13 @@
               "collection": "cadeaukaarten",
               "button_label": "Cadeaukaarten"
             }
-          },
-          "45c88cb6-ea40-4135-8881-e43920a5d8bd": {
-            "type": "featured_collection",
-            "settings": {
-              "collection": "woonaccessoires",
-              "button_label": "Woonaccessoires"
-            }
-          },
-          "3d5c8c7a-7b55-4227-bf0a-cfbe98553624": {
-            "type": "featured_collection",
-            "settings": {
-              "collection": "",
-              "button_label": ""
-            }
-          },
-          "d2d1bc8d-fe8c-49a0-9858-5c098385b259": {
-            "type": "featured_collection",
-            "settings": {
-              "collection": "",
-              "button_label": ""
-            }
           }
         },
         "block_order": [
           "1616861964c499ad32-0",
           "1616861964c499ad32-2",
           "1616861964c499ad32-1",
-          "f4c567d7-18da-4bd1-a60a-2f2d72581e7c",
-          "45c88cb6-ea40-4135-8881-e43920a5d8bd",
-          "3d5c8c7a-7b55-4227-bf0a-cfbe98553624",
-          "d2d1bc8d-fe8c-49a0-9858-5c098385b259"
+          "f4c567d7-18da-4bd1-a60a-2f2d72581e7c"
         ],
         "settings": {
           "category_type": "carousel"
