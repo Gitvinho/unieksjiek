@@ -122,7 +122,7 @@
             "type": "link_list",
             "settings": {
               "title": "Klantenservice",
-              "menu": "",
+              "menu": "klantenservice",
               "title_2": "",
               "menu_2": ""
             }
