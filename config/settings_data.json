@@ -445,7 +445,7 @@
           "show_quantity_selector": false,
           "free_shipping_text": "",
           "order_before": "8",
-          "enable_payment_button": false,
+          "enable_payment_button": true,
           "shipping_timer": "",
           "product_usp_1": "2 jaar <b> garantie<\/b>",
           "product_usp_2": "Gratis binnen <b>30 dagen<\/b> te retourneren",
