@@ -81,7 +81,7 @@
           "logo_max_width": 226,
           "message": true,
           "home_page_only": true,
-          "message_text": "WE ZIJN LIVE! NU 25% INTRODUCTIEKORTING!",
+          "message_text": "NU 25% INTRODUCTIEKORTING!",
           "message_link": "shopify:\/\/collections\/all",
           "color_bg": "#3a3a3a",
           "color_text": "#ffffff"
@@ -445,7 +445,7 @@
           "show_quantity_selector": false,
           "free_shipping_text": "",
           "order_before": "8",
-          "enable_payment_button": true,
+          "enable_payment_button": false,
           "shipping_timer": "",
           "product_usp_1": "2 jaar <b> garantie<\/b>",
           "product_usp_2": "Gratis binnen <b>30 dagen<\/b> te retourneren",
