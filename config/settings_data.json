@@ -358,7 +358,7 @@
       "1616871232bc4ca106": {
         "type": "index-blogs",
         "settings": {
-          "title": "Blogberichten",
+          "title": "Nieuws",
           "title_text_align": "text-left",
           "title_font_weight": "font-weight-normal",
           "blog": "nieuws",
