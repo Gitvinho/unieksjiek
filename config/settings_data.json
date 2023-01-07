@@ -8,7 +8,7 @@
     "color_topnav_bg": "#ffffff",
     "color_navbar_bg": "#aeccb4",
     "color_newsletter_text": "#ffffff",
-    "color_footer_bg": "#ffffff",
+    "color_footer_bg": "#ebebeb",
     "show_btn_gradient": false,
     "color_primary": "#aeccb4",
     "color_primary_gradient": "#198ae7",
@@ -249,8 +249,8 @@
             "type": "image",
             "settings": {
               "usp_icon": "fa-check",
-              "usp": "Vóór 22u besteld, volgende dag in huis",
-              "usp_desc": "Voer hier een omschrijving in.",
+              "usp": "Binnen 2 werkdagen verzonden",
+              "usp_desc": "",
               "usp_url": ""
             }
           },
@@ -259,7 +259,7 @@
             "settings": {
               "usp_icon": "fa-check",
               "usp": "Snelle levering",
-              "usp_desc": "Voer hier een omschrijving in.",
+              "usp_desc": "",
               "usp_url": ""
             }
           },
@@ -267,8 +267,8 @@
             "type": "image",
             "settings": {
               "usp_icon": "fa-check",
-              "usp": "Gratis verzending vanaf € 40",
-              "usp_desc": "Voer hier een omschrijving in.",
+              "usp": "Gratis verzending vanaf € 25",
+              "usp_desc": "",
               "usp_url": ""
             }
           },
@@ -276,8 +276,8 @@
             "type": "image",
             "settings": {
               "usp_icon": "fa-check",
-              "usp": "Ook avondbezorging",
-              "usp_desc": "Voer hier een omschrijving in.",
+              "usp": "",
+              "usp_desc": "",
               "usp_url": ""
             }
           }
