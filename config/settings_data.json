@@ -2,9 +2,9 @@
   "current": {
     "color_body_text": "#000000",
     "color_topnav_text": "#000000",
-    "color_navbar_text": "#aeccb4",
+    "color_navbar_text": "#3a3a3a",
     "color_newsletter_bg": "#aeccb4",
-    "color_footer_text": "#000000",
+    "color_footer_text": "#3a3a3a",
     "color_topnav_bg": "#ffffff",
     "color_navbar_bg": "#f2f7fc",
     "color_newsletter_text": "#ffffff",
@@ -78,7 +78,7 @@
         "settings": {
           "align_logo": "left",
           "logo": "shopify:\/\/shop_images\/Logo_website.png",
-          "logo_max_width": 218,
+          "logo_max_width": 226,
           "message": false,
           "home_page_only": true,
           "message_text": "Kondig hier iets aan",
