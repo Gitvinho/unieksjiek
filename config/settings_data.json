@@ -249,7 +249,7 @@
             "type": "image",
             "settings": {
               "usp_icon": "fa-check",
-              "usp": "Binnen 2 werkdagen verzonden",
+              "usp": "Al binnen 2 werkdagen verzonden",
               "usp_desc": "",
               "usp_url": ""
             }
@@ -275,8 +275,8 @@
           "e3f82f1e-12e9-4284-a204-603db2655bc1": {
             "type": "image",
             "settings": {
-              "usp_icon": "",
-              "usp": "",
+              "usp_icon": "fa check",
+              "usp": "Snelle levering",
               "usp_desc": "",
               "usp_url": ""
             }
