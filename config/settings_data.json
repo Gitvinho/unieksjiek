@@ -82,7 +82,7 @@
           "message": true,
           "home_page_only": true,
           "message_text": "WE ZIJN LIVE! NU 25% INTRODUCTIEKORTING!",
-          "message_link": "",
+          "message_link": "https:\/\/www.nu.nl",
           "color_bg": "#3a3a3a",
           "color_text": "#ffffff"
         }
