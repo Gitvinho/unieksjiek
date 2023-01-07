@@ -310,8 +310,8 @@
             "type": "image",
             "settings": {
               "usp_icon": "check",
-              "usp": "Vóór 15u besteld, volgende dag in huis",
-              "usp_desc": "Voer hier een omschrijving in.",
+              "usp": "Binnen 2 werkdagen verzonden",
+              "usp_desc": "",
               "usp_url": ""
             }
           },
@@ -320,7 +320,7 @@
             "settings": {
               "usp_icon": "check",
               "usp": "Snelle levering",
-              "usp_desc": "Voer hier een omschrijving in.",
+              "usp_desc": "",
               "usp_url": ""
             }
           },
@@ -328,8 +328,8 @@
             "type": "image",
             "settings": {
               "usp_icon": "check",
-              "usp": "Gratis verzending vanaf € 40",
-              "usp_desc": "Voer hier een omschrijving in.",
+              "usp": "Gratis verzending vanaf € 25",
+              "usp_desc": "",
               "usp_url": ""
             }
           },
@@ -337,8 +337,8 @@
             "type": "image",
             "settings": {
               "usp_icon": "check",
-              "usp": "Ook avondbezorging",
-              "usp_desc": "Voer hier een omschrijving in.",
+              "usp": "",
+              "usp_desc": "",
               "usp_url": ""
             }
           }
