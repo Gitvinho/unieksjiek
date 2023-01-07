@@ -192,13 +192,6 @@
       "1616861964c499ad32": {
         "type": "index-categories",
         "blocks": {
-          "f4c567d7-18da-4bd1-a60a-2f2d72581e7c": {
-            "type": "featured_collection",
-            "settings": {
-              "collection": "hangen",
-              "button_label": ""
-            }
-          },
           "1616861964c499ad32-0": {
             "type": "featured_collection",
             "settings": {
@@ -209,8 +202,8 @@
           "1616861964c499ad32-2": {
             "type": "featured_collection",
             "settings": {
-              "collection": "vloerkleden",
-              "button_label": "Puzzels"
+              "collection": "staan",
+              "button_label": "Staan"
             }
           },
           "1616861964c499ad32-1": {
@@ -218,6 +211,13 @@
             "settings": {
               "collection": "verlichting",
               "button_label": "Cadeaubonnen"
+            }
+          },
+          "f4c567d7-18da-4bd1-a60a-2f2d72581e7c": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "hangen",
+              "button_label": "Staan"
             }
           },
           "45c88cb6-ea40-4135-8881-e43920a5d8bd": {
@@ -233,15 +233,23 @@
               "collection": "",
               "button_label": ""
             }
+          },
+          "d2d1bc8d-fe8c-49a0-9858-5c098385b259": {
+            "type": "featured_collection",
+            "settings": {
+              "collection": "",
+              "button_label": ""
+            }
           }
         },
         "block_order": [
-          "f4c567d7-18da-4bd1-a60a-2f2d72581e7c",
           "1616861964c499ad32-0",
           "1616861964c499ad32-2",
           "1616861964c499ad32-1",
+          "f4c567d7-18da-4bd1-a60a-2f2d72581e7c",
           "45c88cb6-ea40-4135-8881-e43920a5d8bd",
-          "3d5c8c7a-7b55-4227-bf0a-cfbe98553624"
+          "3d5c8c7a-7b55-4227-bf0a-cfbe98553624",
+          "d2d1bc8d-fe8c-49a0-9858-5c098385b259"
         ],
         "settings": {
           "category_type": "carousel"
