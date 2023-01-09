@@ -426,8 +426,8 @@
         "settings": {
           "grid": 3,
           "rows": 4,
-          "show_collection_image": false,
-          "sort_enable": true
+          "show_collection_image": true,
+          "sort_enable": false
         }
       },
       "list-collections-template": {
