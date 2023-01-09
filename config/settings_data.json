@@ -207,14 +207,14 @@
             "type": "featured_collection",
             "settings": {
               "collection": "hangen",
-              "button_label": "Hangen"
+              "button_label": "Ophangen"
             }
           },
           "1616861964c499ad32-2": {
             "type": "featured_collection",
             "settings": {
               "collection": "staan",
-              "button_label": "Staan"
+              "button_label": "Neerzetten"
             }
           },
           "1616861964c499ad32-1": {
