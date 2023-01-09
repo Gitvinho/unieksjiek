@@ -432,8 +432,33 @@
       },
       "list-collections-template": {
         "type": "list-collections-template",
+        "blocks": {
+          "19ee765a-efcc-46a7-b2a8-7a9948bd959c": {
+            "type": "collection",
+            "settings": {
+              "collection": "hangen"
+            }
+          },
+          "5fa4b647-39d5-4dc0-abdf-93361ff331f4": {
+            "type": "collection",
+            "settings": {
+              "collection": ""
+            }
+          },
+          "6912a43d-32c5-4fa4-a364-f5b36111dbd6": {
+            "type": "collection",
+            "settings": {
+              "collection": ""
+            }
+          }
+        },
+        "block_order": [
+          "19ee765a-efcc-46a7-b2a8-7a9948bd959c",
+          "5fa4b647-39d5-4dc0-abdf-93361ff331f4",
+          "6912a43d-32c5-4fa4-a364-f5b36111dbd6"
+        ],
         "settings": {
-          "display_type": "all",
+          "display_type": "selected",
           "sort": "alphabetical",
           "grid": 3
         }
