@@ -368,7 +368,7 @@
       "product-template": {
         "type": "product-template",
         "settings": {
-          "show_vendor": false,
+          "show_vendor": true,
           "show_quantity_selector": false,
           "free_shipping_text": "",
           "order_before": "8",
