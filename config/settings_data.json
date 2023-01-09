@@ -140,7 +140,7 @@
           "show_payment_icons": true,
           "show_locale_selector": false,
           "show_currency_selector": false,
-          "section_title": "Abonneren op onze nieuwsbrief",
+          "section_title": "Abonneer je op onze nieuwsbrief",
           "subheading": "<p>Promoties, nieuwe producten en uitverkoop rechtstreeks in je inbox.<\/p>",
           "show_background": true,
           "account_link": "\/Account",
@@ -355,18 +355,6 @@
           "icon_set": "feathericons"
         }
       },
-      "1616871232bc4ca106": {
-        "type": "index-blogs",
-        "settings": {
-          "title": "Nieuws",
-          "title_text_align": "text-left",
-          "title_font_weight": "font-weight-normal",
-          "blog": "2e-nieuwsbericht-3",
-          "blog_show_author": false,
-          "blog_show_date": true,
-          "show_view_all": true
-        }
-      },
       "cart-template": {
         "type": "cart-template",
         "settings": {
@@ -457,7 +445,6 @@
       "1616861964c499ad32",
       "1616870854acab16f7",
       "161687118262c5b574",
-      "1616871232bc4ca106",
       "1619611365f6111029"
     ]
   },
