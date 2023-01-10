@@ -301,8 +301,8 @@
           "794c8b4f-ea61-4ed0-b4b2-3e800b425524": {
             "type": "image",
             "settings": {
-              "usp_icon": "check",
-              "usp": "Binnen 2 werkdagen verzonden",
+              "usp_icon": "",
+              "usp": "FOTO OP HOUT",
               "usp_desc": "",
               "usp_url": ""
             }
@@ -311,8 +311,8 @@
             "type": "image",
             "settings": {
               "usp_icon": "check",
-              "usp": "Snelle levering",
-              "usp_desc": "",
+              "usp": "Foto op forex",
+              "usp_desc": "Modern, lichtgewicht en orgineel!",
               "usp_url": ""
             }
           },
