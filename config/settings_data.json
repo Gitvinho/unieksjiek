@@ -34,6 +34,7 @@
     "usp_4_icon": "check",
     "usp_4": "Gratis verzending vanaf € 39",
     "product_text_align": "text-center",
+    "show_vendor": false,
     "product_price_display": "with_currency",
     "contact_title": "Unieksjiek.nl",
     "contact_adres": "De Wacht 8A",
@@ -79,7 +80,7 @@
           "align_logo": "left",
           "logo": "shopify:\/\/shop_images\/Logo_website.png",
           "logo_max_width": 226,
-          "message": true,
+          "message": false,
           "home_page_only": true,
           "message_text": "NU 25% INTRODUCTIEKORTING!",
           "message_link": "shopify:\/\/collections\/all",
@@ -220,7 +221,7 @@
           "1616861964c499ad32-1": {
             "type": "featured_collection",
             "settings": {
-              "collection": "foto-bedrukken-cadeaus",
+              "collection": "puzzelen",
               "button_label": "Fotocadeau's"
             }
           },
