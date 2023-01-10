@@ -104,10 +104,10 @@
             "type": "contact",
             "settings": {
               "title": "Contactgegevens",
-              "company_title": "Jouw bedrijf",
-              "company_email": "Jouw e-mailadres",
-              "company_phone": "06-12345678",
-              "company_address": "Jouw adres",
+              "company_title": "unieksjiek.nl",
+              "company_email": "info@unieksjiek.nl",
+              "company_phone": "06-57547608",
+              "company_address": "De Wacht 8A 's- Gravendeel",
               "social_contact_check": false
             }
           },
