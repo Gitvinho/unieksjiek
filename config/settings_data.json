@@ -150,7 +150,7 @@
           "account_description": "<p>Volg je bestelling, betaal facturen of retourneer een artikel.<\/p>",
           "service_link": "shopify:\/\/pages\/klantenservice",
           "service_title": "Heb je ons nodig?",
-          "service_description": "<p>We helpen je graag. Pleeg onze klantenservice raad.<\/p>"
+          "service_description": "<p>We helpen je graag. Whatsapp of bel de  klantenservice.<\/p>"
         }
       },
       "1616861933ddaffe7f": {
@@ -343,7 +343,7 @@
         "settings": {
           "show_usp_desc": true,
           "color_usp_bg": "#f6f9f6",
-          "icon_set": "feathericons"
+          "icon_set": "fontawesome"
         }
       },
       "cart-template": {
