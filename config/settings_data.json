@@ -251,7 +251,7 @@
             "settings": {
               "usp_icon": "fa-check",
               "usp": "<b>Stap 1:<\/b> kies je product",
-              "usp_desc": "",
+              "usp_desc": "Kies",
               "usp_url": ""
             }
           },
