@@ -250,7 +250,7 @@
             "type": "image",
             "settings": {
               "usp_icon": "fa-check",
-              "usp": "Al binnen 2 werkdagen verzonden",
+              "usp": "<b>Stap 1:<\/b> kies je product",
               "usp_desc": "",
               "usp_url": ""
             }
