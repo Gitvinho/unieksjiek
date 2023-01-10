@@ -40,6 +40,7 @@
     "contact_adres": "De Wacht 8A, 's-Gravendeel",
     "contact_phone": "06-57547608",
     "contact_email": "info@unieksjiek.nl",
+    "share_facebook": true,
     "share_twitter": false,
     "share_pinterest": false,
     "social_twitter_link": "",
@@ -359,16 +360,16 @@
       "product-template": {
         "type": "product-template",
         "settings": {
-          "show_vendor": true,
+          "show_vendor": false,
           "show_quantity_selector": false,
           "free_shipping_text": "",
-          "order_before": "8",
+          "order_before": "0",
           "enable_payment_button": true,
-          "shipping_timer": "",
-          "product_usp_1": "2 jaar <b> garantie<\/b>",
-          "product_usp_2": "Gratis binnen <b>30 dagen<\/b> te retourneren",
-          "product_usp_3": "<b>100 dagen<\/b> bedenktijd",
-          "shopify_reviews": true,
+          "shipping_timer": "0",
+          "product_usp_1": "binnen <b> 2 werkdagen<\/b> verzonden",
+          "product_usp_2": "",
+          "product_usp_3": "",
+          "shopify_reviews": false,
           "show_share_buttons": true
         }
       },
