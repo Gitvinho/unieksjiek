@@ -51,6 +51,7 @@
     "social_youtube_link": "",
     "social_vimeo_link": "",
     "favicon": "shopify:\/\/shop_images\/LogoUS_enkel_LR.png",
+    "checkout_logo_image": "shopify:\/\/shop_images\/unieksjiek.nl_150_x_150_px.png",
     "checkout_logo_position": "left",
     "checkout_logo_size": "medium",
     "checkout_body_background_color": "#ffffff",
