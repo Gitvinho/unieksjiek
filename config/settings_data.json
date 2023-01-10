@@ -277,7 +277,7 @@
             "type": "image",
             "settings": {
               "usp_icon": "fa-check",
-              "usp": "Afhalen mogelijk op afspraak",
+              "usp": "<b>Stap 4:<\/b> snel geleverd!",
               "usp_desc": "",
               "usp_url": ""
             }
