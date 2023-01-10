@@ -268,7 +268,7 @@
             "type": "image",
             "settings": {
               "usp_icon": "fa-check",
-              "usp": "Gratis verzending vanaf € 25",
+              "usp": "<b>Stap 3:<\/b> bestel",
               "usp_desc": "",
               "usp_url": ""
             }
