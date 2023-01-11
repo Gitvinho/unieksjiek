@@ -240,7 +240,7 @@
           "01f70aa3-bbbe-4043-9776-cef87dd5d67b": {
             "type": "image",
             "settings": {
-              "usp_icon": "fa-check",
+              "usp_icon": "fa-address-book",
               "usp": "<b>Stap 1:<\/b> kies je product",
               "usp_desc": "",
               "usp_url": ""
