@@ -258,7 +258,7 @@
           "0572b603-27a1-410e-922f-237ec5b26560": {
             "type": "image",
             "settings": {
-              "usp_icon": "fa-check",
+              "usp_icon": "fa-shopping-basket",
               "usp": "<b>Stap 3:<\/b> bestel",
               "usp_desc": "",
               "usp_url": ""
