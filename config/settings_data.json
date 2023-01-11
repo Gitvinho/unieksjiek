@@ -138,7 +138,7 @@
           "footer-0"
         ],
         "settings": {
-          "company_returnemail": "Jouw retour e-mailadres",
+          "company_returnemail": "info@unieksjiek.nl",
           "company_returnadres": "Jouw retour adres",
           "show_payment_icons": true,
           "show_locale_selector": false,
