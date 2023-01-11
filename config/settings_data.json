@@ -379,40 +379,6 @@
           "heading": "Anderen bekeken ook"
         }
       },
-      "1619611365f6111029": {
-        "type": "index-content",
-        "blocks": {
-          "1619611365f6111029-0": {
-            "type": "text",
-            "settings": {
-              "title": "07-01-2023 - We zijn live!",
-              "text": "<p>We zijn live! Nu een mega introductiekorting van 25% op alle producten!<\/p>",
-              "width": "50%",
-              "alignment": "center",
-              "align_text": "left"
-            }
-          },
-          "796c1898-8139-455b-af7a-220ffafcdac7": {
-            "type": "text",
-            "settings": {
-              "title": "05-01-2023 - Unieksjiek.nl geeft jouw herinneringen dé printmemorie die het verdient!",
-              "text": "<p>Bekijk snel onze productpagina.<\/p>",
-              "width": "50%",
-              "alignment": "center",
-              "align_text": "left"
-            }
-          }
-        },
-        "block_order": [
-          "1619611365f6111029-0",
-          "796c1898-8139-455b-af7a-220ffafcdac7"
-        ],
-        "settings": {
-          "title": "Nieuwsberichten",
-          "title_text_align": "text-left",
-          "title_font_weight": "font-weight-normal"
-        }
-      },
       "collection-template": {
         "type": "collection-template",
         "settings": {
@@ -454,6 +420,14 @@
           "sort": "alphabetical",
           "grid": 3
         }
+      },
+      "4693b515-42cd-4c37-91ee-74fd0bbb1e02": {
+        "type": "index-content",
+        "settings": {
+          "title": "Aangepaste content",
+          "title_text_align": "text-left",
+          "title_font_weight": "font-weight-normal"
+        }
       }
     },
     "content_for_index": [
@@ -462,7 +436,7 @@
       "1616861964c499ad32",
       "1616870854acab16f7",
       "161687118262c5b574",
-      "1619611365f6111029"
+      "4693b515-42cd-4c37-91ee-74fd0bbb1e02"
     ]
   },
   "presets": {
