@@ -361,7 +361,7 @@
         "type": "product-template",
         "settings": {
           "show_vendor": false,
-          "show_quantity_selector": false,
+          "show_quantity_selector": true,
           "free_shipping_text": "",
           "order_before": "-1",
           "enable_payment_button": true,
