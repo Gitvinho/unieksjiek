@@ -361,11 +361,11 @@
         "type": "product-template",
         "settings": {
           "show_vendor": false,
-          "show_quantity_selector": true,
+          "show_quantity_selector": false,
           "free_shipping_text": "",
           "order_before": "-1",
           "enable_payment_button": true,
-          "shipping_timer": "0",
+          "shipping_timer": "12:00",
           "product_usp_1": "binnen <b> 2 werkdagen<\/b> verzonden",
           "product_usp_2": "",
           "product_usp_3": "",
