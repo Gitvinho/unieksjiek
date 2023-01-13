@@ -366,9 +366,9 @@
           "order_before": "-1",
           "enable_payment_button": true,
           "shipping_timer": "12:00",
-          "product_usp_1": "binnen <b> 2 werkdagen<\/b> verzonden",
+          "product_usp_1": "Binnen <b> 2 werkdagen<\/b> verzonden",
           "product_usp_2": "",
-          "product_usp_3": "",
+          "product_usp_3": "<b>Klantenservice<\/b> bereikbaar ma-vr 08:00-18:00u",
           "shopify_reviews": false,
           "show_share_buttons": true
         }
