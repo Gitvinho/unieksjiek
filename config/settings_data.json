@@ -365,7 +365,7 @@
           "free_shipping_text": "",
           "order_before": "-1",
           "enable_payment_button": true,
-          "shipping_timer": "12:00:00",
+          "shipping_timer": "12: 00: 00",
           "product_usp_1": "Binnen <b> 2 werkdagen<\/b> verzonden",
           "product_usp_2": "<b>Afhalen<\/b> op afspraak mogelijk",
           "product_usp_3": "<b>Klantenservice<\/b> bereikbaar <i>ma-za<\/i> 08:00-18:00u",
