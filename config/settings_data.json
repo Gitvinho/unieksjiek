@@ -363,7 +363,7 @@
           "show_vendor": false,
           "show_quantity_selector": false,
           "free_shipping_text": "",
-          "order_before": "0",
+          "order_before": "-1",
           "enable_payment_button": true,
           "shipping_timer": "0",
           "product_usp_1": "binnen <b> 2 werkdagen<\/b> verzonden",
