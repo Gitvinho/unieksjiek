@@ -44,7 +44,7 @@
             <div class="ml-lg-auto d-md-flex d-none">
               {% for usp in themeUsps %}
               <div class="item text-nowrap text-md-left text-center pr-md-3">
-                <i class="fal fa-{{ forloop.index0 }} text-primary align-text-bottom"></i>
+                <i class="fal fa- {{  themeUspIcons[2] }} {{ forloop.index0 }} text-primary align-text-bottom"></i>
                 <span class="nav-link-inner--text">{{ usp }} {{  forloop.index }}</span>
               </div>
               {% endfor %}
