@@ -32,6 +32,7 @@
 {% endcapture %}
 {% assign checkUsps = false %}
 {% assign themeUsps = theme_usps | strip | newline_to_br | strip_newlines | split: "<br />"  %}
+{% assign themeUspIcons = theme_usps_icons | strip | newline_to_br | strip_newlines | split: "<br />"  %}
 {% for usp in themeUsps %}{% if usp != blank %}{% assign checkUsps = true %}{% endif %}{% endfor %}
 
 {% if checkUsps %}
@@ -52,7 +53,7 @@
               <div class="owl-mobile-usp owl-carousel owl-carousel">
                 {% for usp in themeUsps %}
                 <div class="item text-nowrap text-md-left text-center pr-md-3">
-                  <i class="fal fa text-primary align-text-bottom"></i>
+                  <i class="fal fa-theme_usps_icons text-primary align-text-bottom"></i>
                   {{ usp }}
                 </div>
                 {% endfor %}
