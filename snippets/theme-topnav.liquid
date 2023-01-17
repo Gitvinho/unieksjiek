@@ -18,6 +18,12 @@
   {%- assign show_selectors = true -%}
 {%- endif -%}
 
+{%  capture theme_usps_icons %}
+  {{ settings.usp_1_icon }}
+  {{ settings.usp_2_icon }}
+  {{ settings.usp_3_icon }}
+  {{ settings.usp_4_icon }}
+{% endcapture %}
 {% capture theme_usps %}
   {{ settings.usp_1 }}
   {{ settings.usp_2 }}
