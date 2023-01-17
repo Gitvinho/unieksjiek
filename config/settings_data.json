@@ -144,6 +144,7 @@
           "show_locale_selector": false,
           "show_currency_selector": false,
           "section_title": "Meld je aan voor onze nieuwsbrief",
+          "section_btn_text": "aanmelden",
           "subheading": "<p>Acties, nieuws en nieuwe producten rechtstreeks in je inbox.<\/p>",
           "show_background": true,
           "account_link": "\/Account",
