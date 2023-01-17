@@ -52,14 +52,6 @@
       },
       {
         "type": "color",
-        "id": "color_navbar_text_2",
-        "label": {
-          "nl": "Navigatietekst"
-        },
-        "default": "#333232"
-      },
-      {
-        "type": "color",
         "id": "color_newsletter_bg",
         "label": {
           "nl": "Nieuwsbrief achtergrond"
