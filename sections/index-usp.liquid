@@ -4,7 +4,7 @@
       <ul class="usp-nav list-unstyled d-lg-flex align-items-center{% if section.settings.show_usp_desc %} justify-content-between{% else %} justify-content-center{% endif %} mb-0{% if section.settings.show_usp_desc %} with_desc{% endif %}"{% if section.settings.show_usp_desc %} style="background-color:{{ section.settings.color_usp_bg }};{% endif %}">
         {%- for block in section.blocks -%}
         <li class="usp-item d-flex mx-2">
-          <a href="{{ block.setting.usp_url }}">
+          <a href="{{ block.settings.usp_url }}">
            <i{% if section.settings.icon_set == 'feathericons' %} data-feather="{{ block.settings.usp_icon }}"{% endif %} stroke-width="2" height="16" width="16" class="{% if section.settings.icon_set == 'fontawesome' %}fa {{ block.settings.usp_icon }}{% endif %} text-primary align-text-bottom mt-1 mr-2"></i>
             <div class="item-details">
         		<span>{{ block.settings.usp }}</span>
