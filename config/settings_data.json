@@ -386,7 +386,7 @@
         "settings": {
           "grid": 3,
           "rows": 4,
-          "show_sidebar": true,
+          "show_sidebar": false,
           "show_collection_image": true,
           "sort_enable": false
         }
