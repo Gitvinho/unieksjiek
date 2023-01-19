@@ -361,7 +361,7 @@
       "product-template": {
         "type": "product-template",
         "settings": {
-          "show_countdown": true,
+          "show_countdown": false,
           "show_vendor": false,
           "show_quantity_selector": false,
           "free_shipping_text": "",
