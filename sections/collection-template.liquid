@@ -10,7 +10,7 @@
   <div class="container collection__main mb-4" id="Collection">
     {% render 'breadcrumbs' %}
   	<div class="row">
-      <div class="col-lg-9 col-md-12 order-lg-2">
+      <div class="{% if section.settings.show_sidebar %}col-lg-9{%  else %}col-lg-12{%  endif %} col-md-12 order-lg-2">
         <header class="collection-header">
           {%- assign is_filter_by_available = false -%}
           {%- if section.settings.tags_enable and collection.all_tags.size > 0 -%}
@@ -120,7 +120,9 @@
       	</div>
       </div>
       <div class="col-lg-3 col-md-12 order-lg-1 d-lg-block d-none">
+        {%  if section.settings.show_sidebar %}
         {% render 'theme-sidebar-collection' %}
+          {% endif %}
       </div>
     </div>
   </div>
