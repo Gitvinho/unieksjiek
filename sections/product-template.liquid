@@ -206,9 +206,11 @@
                 </div>
               </div>
         	</form>
+            {% if section.settings.show_countdown %}
         	<div class="ism-product-countdown d-flex align-items-center mt-3">
                   <i class="fa fa-clock-o text-primary mr-2"></i><div class="d-inline-block"><span class="title"> {{ 'products.product.order_now' | t }}</span> <span class="time">0:00:00</span> <span>{{ 'products.product.hours' | t }}</span></div>
            	</div>
+            {%  endif %}
         	<ul class="combi-list list-unstyled mt-3 pt-3 border-top m-0 p-0"> 
               <li class="combi-item mb-3"><i class="fa fa-check text-primary align-middle"></i><span class="align-middle"> {{ section.settings.product_usp_1 }}</span></li>
               <li class="combi-item mb-3"><i class="fa fa-check text-primary align-middle"></i><span class="align-middle"> {{ section.settings.product_usp_2 }}</span></li>
