@@ -370,9 +370,9 @@
           "order_before": "0",
           "enable_payment_button": true,
           "shipping_timer": "23:00:00",
-          "product_usp_1": "Binnen <b> 2 werkdagen<\/b> verzonden",
-          "product_usp_2": "<b>Afhalen<\/b> op afspraak mogelijk",
-          "product_usp_3": "<b>Klantenservice<\/b> bereikbaar <i>ma-za<\/i> 08:00-18:00u",
+          "product_usp_1": "<b>Verzonden<\/b> binnen 2 dagen",
+          "product_usp_2": "Niet <b>goed<\/b>, geld terug",
+          "product_usp_3": "<b>Klantenservice<\/b>  <i>ma-za<\/i> 08:00-18:30u",
           "shopify_reviews": false,
           "show_share_buttons": true
         }
@@ -432,6 +432,11 @@
           "title": "Aangepaste content",
           "title_text_align": "text-left",
           "title_font_weight": "font-weight-normal"
+        }
+      },
+      "search-template": {
+        "type": "search-template",
+        "settings": {
         }
       }
     },
