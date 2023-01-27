@@ -111,10 +111,10 @@
       }
     },
     "newsletter_form": {
-      "newsletter_email": "Abonneer je op onze mailinglijst",
+      "newsletter_email": "Meld je aan voor onze mailinglijst",
       "email_placeholder": "E-mailadres",
-      "confirmation": "Bedankt voor het abonneren!",
-      "submit": "Abonneren"
+      "confirmation": "Bedankt voor het aanmelden!",
+      "submit": "Aanmelden"
     },
     "payment": {
       "method": "Betaalmethoden"
