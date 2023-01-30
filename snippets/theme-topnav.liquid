@@ -38,6 +38,7 @@
 {% assign checkUsps = false %}
 {% assign themeUsps = theme_usps | strip | newline_to_br | strip_newlines | split: "<br />"  %}
 {% assign themeUspIcons = theme_usps_icons | strip | newline_to_br | strip_newlines | split: "<br />"  %}
+{% assign themeUspUrls = theme_usps_urls | strip | newline_to_br | strip_newlines | split: "<br />"  %}
 {% for usp in themeUsps %}{% if usp != blank %}{% assign checkUsps = true %}{% endif %}{% endfor %}
 
 {% if checkUsps %}
