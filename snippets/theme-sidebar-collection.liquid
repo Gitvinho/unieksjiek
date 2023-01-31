@@ -82,7 +82,7 @@
               {% for newlink in link.links %}
                 <li>
                   <a href="{{ link.url }}" class="nav-link">
-                    {{ newlink.title | escape }}
+                    {{ '-' ~ newlink.title | escape }}
                   </a>
                   </li>
               {%  endfor %}
