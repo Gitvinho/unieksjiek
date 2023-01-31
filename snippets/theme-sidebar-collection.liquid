@@ -76,6 +76,9 @@
               <a href="{{ link.url }}" class="nav-link{% if link.child_active %} active{% endif %} px-0">
                 <span class="mr-2">{{ link.title | escape }}</span>
               </a>
+              {% for newlink in link.links %}
+                {{ newlink.title }}
+              {%  endfor %}
             	{% if link.links != blank %}<i data-feather="chevron-down" data-toggle="collapse" data-target="#category_{{ link.levels }}-{{ forloop.index }}" width="18" height="18"></i>{% endif %}
             </div>
 
