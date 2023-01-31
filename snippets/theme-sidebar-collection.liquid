@@ -79,7 +79,9 @@
             	{% if link.links != blank %}<i data-feather="chevron-down" data-toggle="collapse" data-target="#category_{{ link.levels }}-{{ forloop.index }}" width="18" height="18"></i>{% endif %}
             </div>
               {% for newlink in link.links %}
-                {{ newlink.title }}
+                <ul class="list-unstyled">
+                  
+                </ul>
               {%  endfor %}
             {% endfor %}
           </div>
