@@ -36,7 +36,6 @@
                 </button>
               </li>
               <li class="item{% if category.child_active %} active{% endif %}">
-                <a href="{{ category.url }}" title="{{ category.title }}"><strong>{{ category.title }}</strong></a>
               </li>
               {% for subcategory in category.links %}
               <li class="item{% if category.child_active %} active{% endif %}">
