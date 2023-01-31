@@ -78,45 +78,7 @@
               </a>
             	{% if link.links != blank %}<i data-feather="chevron-down" data-toggle="collapse" data-target="#category_{{ link.levels }}-{{ forloop.index }}" width="18" height="18"></i>{% endif %}
             </div>
-            <div id="category_{{ link.levels }}-{{ forloop.index }}" class="collapse">
-              <ul class="list-unstyled pl-2 mb-0">
-                {% for link in link.links %}
-                <li>
-                  <div class="title-box d-flex align-items-center justify-content-between">
-                    <a href="{{ link.url }}" class="nav-link{% if link.child_active %} active{% endif %} px-0">
-                      <span class="mr-2">{{ link.title | escape }}</span>
-                    </a>
-                      {% if link.links != blank %}<i data-feather="chevron-down" data-toggle="collapse" data-target="#category_{{ link.levels }}-{{ forloop.index }}" width="18" height="18"></i>{% endif %}
-                  </div>
-                  <div id="category_{{ link.levels }}-{{ forloop.index }}" class="collapse">
-                    <ul class="list-unstyled pl-2 mb-0">
-                      {% for link in link.links %}
-                      <li>
-                        <div class="title-box d-flex align-items-center justify-content-between">
-                          <a href="{{ link.url }}" class="nav-link{% if link.child_active %} active{% endif %} px-0">
-                            <span class="mr-2">{{ link.title | escape }}</span>
-                          </a>
-                            {% if link.links != blank %}<i data-feather="chevron-down" data-toggle="collapse" data-target="#category_{{ link.levels }}-{{ forloop.index }}" width="18" height="18"></i>{% endif %}
-                        </div>
-                        <div id="category_{{ link.levels }}-{{ forloop.index }}" class="collapse">
-                          <ul class="list-unstyled pl-2 mb-0">
-                            {% for link in link.links %}
-                            <li>
-                              <a href="{{ link.url }}" class="nav-link{% if link.child_active %} active{% endif %} px-0 d-flex align-items-center justify-content-between" data-toggle="collapse" data-target="#category_{{ link.levels }}-{{ forloop.index }}">
-                                <span class="text-muted mr-2">{{ link.title | escape }}</span>{% if link.links != blank %}<i data-feather="chevron-down"width="18" height="18"></i>{% endif %}
-                              </a>
-                            </li>
-                            {% endfor %}
-                          </ul>
-                        </div>
-                      </li>
-                      {% endfor %}
-                    </ul>
-                  </div>
-                </li>
-                {% endfor %}
-              </ul>
-            </div>
+
             {% endfor %}
           </div>
         </div>
