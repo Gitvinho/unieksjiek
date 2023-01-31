@@ -80,7 +80,11 @@
             </div>
             <ul class="list-unstyled">
               {% for newlink in link.links %}
-                  <li>{{ newlink.title | escape }}</li>
+                <li>
+                  <a href="{{ link.url }}" class="nav-link">
+                    {{ newlink.title | escape }}
+                  </a>
+                  </li>
               {%  endfor %}
               </ul>
             {% endfor %}
