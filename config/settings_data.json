@@ -165,16 +165,27 @@
           "1616861933ddaffe7f-0": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/INTRODUCTIE.png",
+              "image": "shopify:\/\/shop_images\/1_174d5575-7b83-4925-8e92-622d5e384ec8.png",
               "slide_title": "",
               "subheading": "",
               "button_label": "Bekijken",
               "button_link": "shopify:\/\/collections\/bank"
             }
+          },
+          "4bc14805-953c-4edb-b933-4e3ea2c4c5ea": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2_b79546f3-98e1-4bc3-8221-25b931a53f6d.png",
+              "slide_title": "Voer hier je tekst in",
+              "subheading": "Vertel met afbeeldingen het verhaal van je merk",
+              "button_label": "",
+              "button_link": ""
+            }
           }
         },
         "block_order": [
-          "1616861933ddaffe7f-0"
+          "1616861933ddaffe7f-0",
+          "4bc14805-953c-4edb-b933-4e3ea2c4c5ea"
         ],
         "settings": {
           "homepage_style": "service",
