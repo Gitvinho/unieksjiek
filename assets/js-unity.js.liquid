@@ -5,7 +5,8 @@ $(document).ready(function(){
   $('#sidebar .subnav').hide();
   $('.subnav-opener').click(function(){
     var $this = $(this);
-    $this.closest('.subnav').show(200);
+    console.log('test');
+    $this.find('.subnav').show(200);
   });
 });
 /* FUNCTIONS
