@@ -6,7 +6,7 @@ $(document).ready(function(){
   $('.subnav-opener').click(function(){
     var $this = $(this);
     console.log('test');
-    console.log($(this).closest('.box-category').find('.subnav'));
+    $(this).closest('.box-category').find('.subnav').show(200)
   });
 });
 /* FUNCTIONS
