@@ -7,8 +7,8 @@ $(document).ready(function(){
     var $this = $(this);
     if($this.hasClass('active')){
       $this.closest('.box-category').find('.subnav').hide(200);
-      $this.addClass('fa fa-chevron-down');
       $this.removeClass('fa fa-chevron-left');
+       $this.addClass('fa fa-chevron-down');
       $this.removeClass('active');
     } else {
       $this.closest('.box-category').find('.subnav').show(200);
