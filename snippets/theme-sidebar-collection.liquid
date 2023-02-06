@@ -73,7 +73,7 @@
           <div class="content-box" id="categories">
             {% for link in linklists.main-menu.links %}
             <div class="title-box box-category">
-              <div class="d-flex align-items-center justify-content-between nav-link px-0">
+              <div class="d-flex align-items-center justify-content-between nav-link{% if link.child_active %} active{% endif %} px-0">
                 <a href="{{ link.url }}" >
                   <span class="mr-2">{{ link.title | escape }}</span>
                 </a>
