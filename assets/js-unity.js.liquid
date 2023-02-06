@@ -5,8 +5,13 @@ $(document).ready(function(){
   $('#sidebar .subnav').hide();
   $('.subnav-opener').click(function(){
     var $this = $(this);
-    console.log('test');
-    $(this).closest('.box-category').find('.subnav').show(200)
+    if($this.hasClass('active')){
+      $this.closest('.box-category').find('.subnav').hide(200);
+      $this.removeClass('active');
+    } else {
+      $this.closest('.box-category').find('.subnav').show(200);
+      $this.addClass('active');
+    }
   });
 });
 /* FUNCTIONS
