@@ -82,7 +82,7 @@
               <ul class="list-unstyled subnav">
               {% for newlink in link.links %}
                 <li>
-                  <a href="{{ link.url }}" class="nav-link">
+                  <a href="{{ link.url }}" class="nav-link {% if newlink.active %}active{% endif %}">
                     {{ newlink.title | escape }}
                   </a>
                   </li>
