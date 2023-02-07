@@ -91,7 +91,7 @@
           "message_text": "WE ZIJN LIVE! SHOP NU MET 25% INTRODUCTIEKORTING!",
           "message_link": "shopify:\/\/collections\/all",
           "color_bg": "#198ae7",
-          "color_text": "#EA0606"
+          "color_text": "#ea0606"
         }
       },
       "footer": {
@@ -169,7 +169,7 @@
               "slide_title": "",
               "subheading": "",
               "button_label": "SHOP NU",
-              "button_link": "shopify:\/\/collections\/bank"
+              "button_link": "shopify:\/\/collections\/all"
             }
           },
           "4bc14805-953c-4edb-b933-4e3ea2c4c5ea": {
