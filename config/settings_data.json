@@ -181,11 +181,22 @@
               "button_label": "BEKIJKEN",
               "button_link": "shopify:\/\/pages\/hangen"
             }
+          },
+          "6ebf4fa5-c6c0-419e-bb19-7cdcaba9bba0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/3_3fd08a1a-e333-41a3-ab29-9c72cb596cef.png",
+              "slide_title": "",
+              "subheading": "",
+              "button_label": "WIJNKISTEN",
+              "button_link": "shopify:\/\/products\/wijnkist-houten-schuifdeksel"
+            }
           }
         },
         "block_order": [
           "1616861933ddaffe7f-0",
-          "4bc14805-953c-4edb-b933-4e3ea2c4c5ea"
+          "4bc14805-953c-4edb-b933-4e3ea2c4c5ea",
+          "6ebf4fa5-c6c0-419e-bb19-7cdcaba9bba0"
         ],
         "settings": {
           "homepage_style": "service",
