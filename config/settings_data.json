@@ -176,8 +176,8 @@
             "type": "image",
             "settings": {
               "image": "shopify:\/\/shop_images\/2_32900dc3-8405-4c94-a580-5ea077d3e51c.png",
-              "slide_title": "Een foto op hout",
-              "subheading": "Het leukste cadeau om te geven",
+              "slide_title": "",
+              "subheading": "",
               "button_label": "BEKIJKEN",
               "button_link": "shopify:\/\/pages\/hangen"
             }
