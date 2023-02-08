@@ -23,7 +23,7 @@
                       	<img src="{{ block_image | image_url }}" width="1020" height="484" alt="{{ block.settings.button_label | escape }}" loading="lazy" class="img-fluid" />
                       {% endif %}
                        <div class="slide-content position-absolute">
-                          <div class="slide-text{% if section.settings.text_size == 'large' %} large-text{% endif %} mb-4">
+                          <div class="slide-text{% if section.settings.text_size == 'large' %} large-text{% endif %} mb-14">
                             <h3 class="display-3 text-white text-shadow d-block mb-0">{{ block.settings.slide_title }}</h3>
                             {%- unless block.settings.subheading == blank -%}
                             <span class="lead text-italic text-white text-shadow">
