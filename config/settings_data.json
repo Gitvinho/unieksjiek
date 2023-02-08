@@ -379,10 +379,10 @@
         "type": "cart-template",
         "settings": {
           "cart_notes_enable": true,
-          "title": "En wat vind je van deze?",
+          "title": "Voeg nog een cadeaukaart toe aan je bestelling!",
           "title_text_align": "text-left",
           "title_font_weight": "font-weight-normal",
-          "upsells": "accessoires"
+          "upsells": "cadeaukaarten"
         }
       },
       "product-template": {
