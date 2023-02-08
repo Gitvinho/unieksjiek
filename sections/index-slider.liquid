@@ -24,7 +24,7 @@
                       {% endif %}
                        <div class="slide-content position-absolute">
                           <div class="slide-text{% if section.settings.text_size == 'large' %} large-text{% endif %} mb-4">
-                            <h3 class="display-3 text-white text-shadow d-block mb-0">{{ block.settings.slide_title }}</h13>
+                            <h3 class="display-3 text-white text-shadow d-block mb-0">{{ block.settings.slide_title }}</h3>
                             {%- unless block.settings.subheading == blank -%}
                             <span class="lead text-italic text-white text-shadow">
                             {{ block.settings.subheading }}
@@ -43,7 +43,7 @@
            </div>
         </div>
       </div>
-      <div class="{% if section.settings.homepage_style == 'banners' %}col-xl-4{% else %}col-xl-3{% endif %} col-lg-4 col-12">
+      <div class="{% if section.settings.homepage_style == 'banners' %}col-xl-14{% else %}col-xl-13{% endif %} col-lg-4 col-12">
         {% if section.settings.homepage_style == 'banners' %}
         <div id="banners" class="banners row">
           <div class="banner banner-1 col-md-12 col-12 mb-md-4">
