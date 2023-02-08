@@ -357,9 +357,9 @@
             "type": "image",
             "settings": {
               "usp_icon": "check",
-              "usp": "Bedrukte wijnkist",
-              "usp_desc": "Stoer en persoonlijk",
-              "usp_url": ""
+              "usp": "Bedrukte wijnkisten",
+              "usp_desc": "Ideaal relatiegeschenk",
+              "usp_url": "shopify:\/\/collections\/wijnkisten"
             }
           }
         },
