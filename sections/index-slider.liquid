@@ -43,10 +43,10 @@
            </div>
         </div>
       </div>
-      <div class="{% if section.settings.homepage_style == 'banners' %}col-xl-14{% else %}col-xl-13{% endif %} col-lg-4 col-12">
+      <div class="{% if section.settings.homepage_style == 'banners' %}col-xl-4{% else %}col-xl-3{% endif %} col-lg-4 col-12">
         {% if section.settings.homepage_style == 'banners' %}
         <div id="banners" class="banners row">
-          <div class="banner banner-1 col-md-12 col-12 mb-md-4">
+          <div class="banner banner-1 col-md-12 col-12 mb-md-10">
             <div class="banner-inner position-relative">
               <a href="{{ section.settings.button_link }}" title="{{ section.settings.button_1_label }}"><img src="{{ section.settings.banner_1 | image_url }}" width="437" height="230" loading="lazy" alt="{{ section.settings.button_1_label }}" class="img-fluid" /></a>
               {% if section.settings.button_1_label != blank %}
