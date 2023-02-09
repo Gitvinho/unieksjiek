@@ -414,7 +414,7 @@
           "grid": 3,
           "rows": 4,
           "show_sidebar": false,
-          "show_collection_image": true,
+          "show_collection_image": false,
           "sort_enable": false
         }
       },
