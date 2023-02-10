@@ -29,11 +29,7 @@
           {%- if product.price_varies == false and product.compare_at_price_varies %}<div class="label label-compare badge badge-info">price--compare-price-hidden</div>{% endif -%}
           {%- if variant.unit_price_measurement %}<div class="label label-available badge badge-info"> price--unit-available</div>{% endif -%}
           <a href="{{ product.url }}" title="{{ product.title }}" class="title h4">
-            <picture>
-              <source media="(min-width:992px)" srcset="{{ preview_image | image_url: image_size, scale: 1, crop: 'center' }}">
-              <source media="(min-width:0px)" srcset="{{ preview_image | image_url:'150x150', scale: 1, crop: 'center' }}">
               <img src="{{ preview_image | image_url: width:256, crop:'center' }}" alt="{{ product.title }}" width="256" height="256" loading="lazy" data-size="{{ image_size }}" class="img-fluid m-auto">
-            </picture>
           </a>
         </div>
         <div class="product-info {{ settings.product_text_align }}">
