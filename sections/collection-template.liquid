@@ -101,7 +101,7 @@
             </div>
             <div id="AjaxinatePagination" class="text-center">
               {% if paginate.next %}
-                <a href="{{ paginate.next.url }}" class="btn btn-primary btn-load collection__load-more my-3" onclick="return false;">{{ 'general.pagination.load_more' | t }}</a>
+                <a href="{{ paginate.next.url }}" class="btn btn-primary btn-load collection__load-more my-3">{{ 'general.pagination.load_more' | t }}</a>
               {% endif %}
             </div>
             {% endpaginate %}
