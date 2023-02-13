@@ -88,7 +88,7 @@
           "logo_max_width": 250,
           "message": true,
           "home_page_only": true,
-          "message_text": "WE ZIJN LIVE! SHOP NU MET 25% INTRODUCTIEKORTING!",
+          "message_text": "<b>WE ZIJN LIVE! SHOP NU MET 25% INTRODUCTIEKORTING!<\/b>",
           "message_link": "shopify:\/\/collections\/all",
           "aankondigs_color_bg": "#efc03c",
           "aankondigs_color_text": "#ffffff"
