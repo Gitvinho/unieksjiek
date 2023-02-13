@@ -52,6 +52,7 @@
     },
     "pagination": {
       "load_more": "Laad meer producten",
+      "load_less": "Laad minder producten zien",
       "previous": "Vorige pagina",
       "next": "Volgende pagina",
       "current_page": "Pagina {{ current }} van {{ total }}"
