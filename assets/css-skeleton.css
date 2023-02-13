@@ -191,6 +191,7 @@ body .overlay-bg {opacity:0;visibility: hidden;position: fixed;top: 0;right: 0;b
   #footer .footer-widget {padding-top: 5px;padding-bottom: 5px;}
   #footer .footer-widget .title-box h4 {font-size: 18px;}
   #footer .footer-widget .title-box i, #footer .footer-widget .title-box svg {color:#fff;}
+  #header .hidden-mobile {display:none!important;}
 }
 @media only screen and (max-width: 480px) {
   #slider .headline {height:228px;}
