@@ -195,7 +195,7 @@ body .overlay-bg {opacity:0;visibility: hidden;position: fixed;top: 0;right: 0;b
   #footer .footer-widget .title-box h4 {font-size: 18px;}
   #footer .footer-widget .title-box i, #footer .footer-widget .title-box svg {color:#fff;}
   #header .hidden-mobile {display:none!important;}\
-  #header .nav-icons nav {justify-content:flex-start}
+  #header .nav-icons nav {justify-content:flex-start;align-items:flex-start}
   .announcement-bar {text-align:center;}
   .announcement-bar {font-size:13px;}
 }
