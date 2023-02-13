@@ -90,7 +90,7 @@
       "results_for_html": "Je zoekopdracht voor \"{{ terms }}\" leverde het volgende op:",
       "title": "Zoek naar producten op onze site",
       "view_all_results": "Bekijk alle resultaten",
-      "placeholder": "Zoeken",
+      "placeholder": "Wat zoek je?",
       "submit": "Indienen",
       "close": "Zoeken sluiten",
       "heading": {
