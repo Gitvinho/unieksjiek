@@ -90,8 +90,8 @@
           "home_page_only": true,
           "message_text": "WE ZIJN LIVE! SHOP NU MET 25% INTRODUCTIEKORTING!",
           "message_link": "shopify:\/\/collections\/all",
-          "color_bg": "#ffabab",
-          "color_text": "#ea0606"
+          "aankondigs_color_bg": "#efc03c",
+          "aankondigs_color_text": "#ffffff"
         }
       },
       "footer": {
