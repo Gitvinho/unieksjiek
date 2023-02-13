@@ -137,7 +137,7 @@ body .overlay-bg {opacity:0;visibility: hidden;position: fixed;top: 0;right: 0;b
 	.col-lg-20 {-ms-flex: 0 0 20%;flex: 0 0 20%;max-width: 20%;}
 }
 @media (min-width:769px) {
-    #header .nav-icons nav {justify-content:flex-end}
+    #header .nav-icons nav {justify-content:flex-end;align-items:flex-start;}
 }
 @media (max-width: 1400px){
   #slider .headline {height:484px;}
