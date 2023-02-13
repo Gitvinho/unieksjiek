@@ -20,9 +20,6 @@
                 {% if category.links != blank %}
                 <i class="fa fa-chevron-right" data-feather="chevron-right"></i>
                 {% endif %}
-            {% for link in category.links %}
-              {{ link.title }}
-                {%  endfor %}
               </div>
             </a>
             {% if category.links %}
