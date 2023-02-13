@@ -46,7 +46,7 @@
                   <td class="cart__meta p-0 small--text-left" data-cart-table-cell>
                     <div class="cart__product-information d-flex align-items-center">
                       <div class="cart__image-wrapper pr-3">
-                        <img class="cart__image" src="{{ item | image_url: 'x80' }}" loading="lazy" width="100" height="80" alt="{{ item.image.alt | escape }}" data-cart-item-image>
+                        <img class="cart__image" src="{{ item.image | image_url: 'x80' }}" loading="lazy" width="100" height="80" alt="{{ item.image.alt | escape }}" data-cart-item-image>
                       </div>
                       <div>
                         <div class="list-view-item__title">
