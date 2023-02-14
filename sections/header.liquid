@@ -87,10 +87,6 @@
                                 <li class="nav-item dropdown">
                   <a href="{{ routes.cart_url }}" class="nav-link nav-link-icon position-relative">
                     <i class="fal fa-sm fa-shopping-cart icon text-primary mr-lg-2"></i>
-                    <strong class="menu-text nav-link-inner--text d-inline-block align-middle hidden-mobile">{{ 'layout.cart.title' | t }}</strong>
-                    <div id="CartCount" class="badge badge-pill badge-primary{% if cart.item_count == 0 %} hide{% endif %} critical-hidden" data-cart-count-bubble>
-                      <span class="cart-count" data-cart-count>{{ cart.item_count }}</span>
-                    </div>
                   </a>
                 </li>
               </ul>
