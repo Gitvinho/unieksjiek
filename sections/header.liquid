@@ -17,10 +17,6 @@
 <header id="header" class="header{% if section.settings.align_logo == 'left' %} logo-left{% elsif section.settings.align_logo == 'center' %} logo-center{% endif %}" data-section-id="{{ section.id }}" data-section-type="header-section" data-header-section>
   <div class="container">  
   	<div class="header-inner pb-md-2">
-            <a href="" title="" onclick="mobileNav($(this));return false;" data-target="#overlayNavigation" class=" menu">
-        <i class="fa fa-bars" aria-hidden="true" data-feather="menu"></i>
-        <span class="title">Menu</span>
-      </a>
       <div class="row align-items-center">
         <div id="logo" class="col-lg-4 col-lg-4 col-7 text-md-left text-center{% if section.settings.align_logo == 'left' %} order-lg-1 order-1{% elsif section.settings.align_logo == 'center' %} order-lg-2 order-1{% endif %}">
           <div class="d-flex align-items-end{% if section.settings.align_logo == 'left' %} justify-content-start{% elsif section.settings.align_logo == 'center' %} justify-content-center{% endif %}">
@@ -85,11 +81,18 @@
                   </a>
                 </li>
                 <li class="nav-item dropdown">
-                  <a href="{{ routes.cart_url }}" class="nav-link nav-link-icon position-relative">
-                    <i class="fal fa-sm fa-menu icon text-primary mr-lg-2"></i>
-                    testhadhad
+                  <a href="mobileNav($(this));return false;" class="nav-link nav-link-icon position-relative">
+                    <i class="fal fa-sm fa-bars icon text-primary mr-lg-2"></i>
+                    <strong class="menu-text nav-link-inner--text d-inline-block align-middle hidden-mobile">{{ 'layout.cart.title' | t }}</strong>
+                    <div id="CartCount" class="badge badge-pill badge-primary{% if cart.item_count == 0 %} hide{% endif %} critical-hidden" data-cart-count-bubble>
+                      <span class="cart-count" data-cart-count>{{ cart.item_count }}</span>
+                    </div>
                   </a>
                 </li>
+                            <a href="" title="" onclick="mobileNav($(this));return false;" data-target="#overlayNavigation" class=" menu">
+        <i class="fa fa-bars" aria-hidden="true" data-feather="menu"></i>
+        <span class="title">Menu</span>
+      </a>
               </ul>
           </nav>
          </div>
