@@ -130,7 +130,7 @@ body .overlay-bg {opacity:0;visibility: hidden;position: fixed;top: 0;right: 0;b
 #resNav ul ul li strong {font-size:16px;vertical-align: middle;}
 #header .ipad-view {display:none}
 /* View points */
-@media only screen and (max-width: 1306px) and (min-width: 769px)  {#header .ipad-view {display:inline-block!important}}
+@media only screen and (max-width: 1400px) and (min-width: 769px)  {#header .ipad-view {display:inline-block!important}}
 @media (min-width: 1400px){
   .container {max-width: 1400px;}
 }
