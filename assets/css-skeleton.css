@@ -141,7 +141,7 @@ body .overlay-bg {opacity:0;visibility: hidden;position: fixed;top: 0;right: 0;b
     #header .nav-icons nav {justify-content:flex-end;align-items:flex-start;}
 }
 @media (max-width: 1400px){
-  #slider .headline {height:484px;}
+  #slider .headline {height:372px;}
   #slider .headline img {max-width:100%!important;height: 365px;overflow:hidden;object-fit:cover;}
   #slider.two_slides .headline {height:484px;}
   #slider.two_slides .headline img {height:484px;}
