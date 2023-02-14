@@ -42,3 +42,18 @@
   ]
 }
 </script>
+
+<script>
+$(function() {
+  $(document).on('previewSuccess', 'form[data-uploadery]', function(e) {
+    if (e.originalEvent.detail.preview === '') {
+      return;
+    }
+    var $title = $('<p></p>').html('Preview:');
+    var $img = $('<img/>').attr('src', e.originalEvent.detail.preview);
+    var $uploaderyResponse = $('<div></div>').attr('class', 'uploaderyResponse').html([$title, $img]);
+    $(e.target).next('.uploaderyResponse').remove();
+    $(e.target).after($uploaderyResponse);
+  });
+});
+</script>
