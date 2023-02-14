@@ -155,6 +155,7 @@ body .overlay-bg {opacity:0;visibility: hidden;position: fixed;top: 0;right: 0;b
   #slider .headline img {height:365px;}
   #categories .category {height:125px;}
   #reviewWidget {border:0 !important;overflow:visible;height:auto;} 
+  #header .hidden-mobile {display:none!important;}
   #reviewWidget .ism-reviewwidget .block-box {background:#fff;box-shadow: 0 1px 3px rgb(50 50 93 / 15%), 0 1px 0 rgb(0 0 0 / 2%);border: 0;transition: box-shadow .15s ease;width: 100%;display: block;padding: 15px;margin-bottom: 15px;}
 }
 @media only screen and (max-width: 768px) {
@@ -194,7 +195,7 @@ body .overlay-bg {opacity:0;visibility: hidden;position: fixed;top: 0;right: 0;b
   #footer .footer-widget {padding-top: 5px;padding-bottom: 5px;}
   #footer .footer-widget .title-box h4 {font-size: 18px;}
   #footer .footer-widget .title-box i, #footer .footer-widget .title-box svg {color:#fff;}
-  #header .hidden-mobile {display:none!important;}\
+  #header .hidden-mobile {display:none!important;}
   #header .nav-icons nav {justify-content:flex-start;align-items:flex-start}
   .announcement-bar {text-align:center;}
   .announcement-bar {font-size:13px;}
