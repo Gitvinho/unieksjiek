@@ -139,31 +139,7 @@
               </div>  
               	{% include 'productpage-configure' %}
 
-				<div id="ProductStock-{{ section.id }}" class="product-stock product-single_stock mt-3">
-                  {% if current_variant.inventory_management %}
-                    {% if current_variant.inventory_quantity > 0 %}
-                      {% assign qty = current_variant.inventory_quantity %}
-                     <div class="instock text-success">
-                        <i class="fa fa-check-circle"></i>
-                      	<span>{{ 'products.product.in_stock' | t: count: qty }}</span>
-              		</div>
-                    {% else current_variant.inventory_quantity == 0 or current_variant.inventory_quantity < 0 and current_variant.incoming %}
-                      {% if current_variant.available %}
-                        {% assign date = current_variant.next_incoming_date | date: "%B %-d, %Y" %}
-              			<div class="outstock">
-                			<i class="fa fa-times"></i>
-                        	<strong>{{ 'products.product.will_not_ship_until' | t: date: date  }}</strong>
-                		</div>
-                      {% else %}
-                        {% assign date = current_variant.next_incoming_date | date: "%B %-d, %Y" %}
-                		<div class="outstock text-danger">
-                			<i class="fa fa-times"></i>
-                          <strong class="align-middle">{{ 'products.product.sold_out' | t: date: date  }}</strong>
-                		</div>
-                      {% endif %}
-                    {% endif %}
-                  {% endif %}
-            	</div>
+				
               <div id="uploadery-container"></div>
               	{% if show_quantity_selector %}
                 <div class="product-form__controls-group cart-details py-3">
