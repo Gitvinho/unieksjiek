@@ -48,7 +48,7 @@
                       <div class="cart__image-wrapper pr-3">
                         <img class="cart__image" src="{{ item.image | img_url: 'x80' }}" loading="lazy" width="100" height="80" alt="{{ item.image.alt | escape }}" data-cart-item-image>
                 {% for p in item.properties %}
-  {% if p.last contains '//_uploadery.s3'%}
+  {% if p.last contains '//uploadery.s3'%}
     {% if p.last contains '.png' or p.last contains '.jpg' or p.last contains '.jpeg' or p.last contains '.gif' %}
       {% assign file_parts = p.last | split:"/" %}
       {% assign file_path = file_parts | last %}
