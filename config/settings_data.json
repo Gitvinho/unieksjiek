@@ -144,7 +144,7 @@
         "settings": {
           "company_returnemail": "info@unieksjiek.nl",
           "company_returnadres": "De Wacht 8A, 3295 KB 's-Gravendeel",
-          "show_payment_icons": true,
+          "show_payment_icons": false,
           "show_locale_selector": false,
           "show_currency_selector": false,
           "section_title": "Meld je aan voor onze nieuwsbrief",
