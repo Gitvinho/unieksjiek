@@ -128,7 +128,7 @@ body .overlay-bg {opacity:0;visibility: hidden;position: fixed;top: 0;right: 0;b
 #resNav ul ul li i {font-size: 28px;vertical-align: middle;margin-left: -10px;}
 #resNav ul ul li span {font-weight:normal;}
 #resNav ul ul li strong {font-size:16px;vertical-align: middle;}
-
+#header .ipad-view {display:none}
 /* View points */
 @media (min-width: 1400px){
   .container {max-width: 1400px;}
