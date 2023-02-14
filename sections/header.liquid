@@ -17,6 +17,10 @@
 <header id="header" class="header{% if section.settings.align_logo == 'left' %} logo-left{% elsif section.settings.align_logo == 'center' %} logo-center{% endif %}" data-section-id="{{ section.id }}" data-section-type="header-section" data-header-section>
   <div class="container">  
   	<div class="header-inner pb-md-2">
+      <a href="" title="" onclick="mobileNav($(this));return false;" data-target="#overlayNavigation" class="btn-mobile menu">
+        <i class="fa fa-bars" aria-hidden="true" data-feather="menu"></i>
+        <span class="title">Menu</span>
+      </a>
       <div class="row align-items-center">
         <div id="logo" class="col-lg-4 col-lg-4 col-7 text-md-left text-center{% if section.settings.align_logo == 'left' %} order-lg-1 order-1{% elsif section.settings.align_logo == 'center' %} order-lg-2 order-1{% endif %}">
           <div class="d-flex align-items-end{% if section.settings.align_logo == 'left' %} justify-content-start{% elsif section.settings.align_logo == 'center' %} justify-content-center{% endif %}">
