@@ -87,11 +87,11 @@
           "logo": "shopify:\/\/shop_images\/Logo_website.png",
           "logo_max_width": 250,
           "message": true,
-          "home_page_only": true,
-          "message_text": "WE ZIJN LIVE! SHOP NU MET 25% INTRODUCTIEKORTING!",
+          "home_page_only": false,
+          "message_text": "WE ZIJN LIVE! Gebruik code LIVE25 voor 25% introductiekorting!",
           "message_link": "shopify:\/\/collections\/all",
           "aankondigs_color_bg": "#ffe59e",
-          "aankondigs_color_text": "#3a3a3a"
+          "aankondigs_color_text": "#1b1b1b"
         }
       },
       "footer": {
