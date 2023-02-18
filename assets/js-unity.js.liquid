@@ -95,11 +95,11 @@ function liveSearch(){
 =============================================================== */
 /* Mobile Usp - Owl Carousel */
 $('.owl-mobile-usp').owlCarousel({
-    autoplay:true,smartSpeed:1500,dots:false,loop:true,margin:1,nav:false,lazyLoad:false,items:4,responsive:{0:{items:1},768:{items:2},992:{items:3},1200:{items:4}}
+    autoplay:true,smartSpeed:1500,dots:false,loop:true,margin:15,nav:false,lazyLoad:false,items:4,responsive:{0:{items:1},768:{items:2},992:{items:3},1200:{items:4}}
 });
 /* Slider - Owl Carousel */
 $('.owl-slider').owlCarousel({
-  autoplay:true,smartSpeed:1500,lazyLoad:false,autoplayTimeout:10000,dots:true,loop:false,rewind:true,items:1
+  autoplay:true,smartSpeed:1500,lazyLoad:false,autoplayTimeout:1000,dots:true,loop:false,rewind:true,items:1
 });
 $('.owl-slider').on({'initialized.owl.carousel': function () {$('.pre-slider').hide();}});
 $('#slider').find(".prev").click(function () {
