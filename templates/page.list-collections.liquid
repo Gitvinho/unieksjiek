@@ -15,7 +15,8 @@
       {% assign collection = link.object %}
       <div class="col-lg-4 col-md-4 col-6">
         <a href="{{ collection.url }}">
-        <img src="{{ collection.image | image_url: width: 450, height: 450 | image_tag: collection.image.alt }}"/>
+          <img src="{{ collection.image | image_url: width: 450, height: 450 | image_tag: collection.image.alt }}"/>
+          <span>{{ collection.title }}</span>
         </a>
       </div>
       {% endif %}
