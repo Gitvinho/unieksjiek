@@ -6,10 +6,9 @@
           <h1>{{ page.title }}</h1>
       </div>
     </div>
-    <div class="col-12">
-      {% for collection in linklists[page.title].links  %}
-        {{ collection.title }}
-      {%  endfor %}
-    </div>
+  </div>
+  <div class="row">
+  {% for collection in linklists[page.title].links  %}
+  {%  endfor %}
   </div>
 </div>
