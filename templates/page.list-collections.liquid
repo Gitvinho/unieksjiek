@@ -9,6 +9,10 @@
     <div class="col-12">
       
       {{ page.title | downcase }}
+
+      {% for collection in linklists[page.title].links  %}
+        {{ collection.title }}
+      {%  endfor %}
     </div>
   </div>
 </div>
