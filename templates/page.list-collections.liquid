@@ -9,6 +9,9 @@
   </div>
   <div class="row">
   {% for collection in linklists[page.title].links  %}
+    <div class="col-md-4">
+      {{ link.title | link_to: link.url }}
+    </div>
   {%  endfor %}
   </div>
 </div>
