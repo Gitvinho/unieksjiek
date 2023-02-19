@@ -11,7 +11,9 @@
   </div>
   <div class="row">
   {% for collection in linklists[page.title].links  %}
-    {{ collection.title }}
+    <div class="col-lg-4 col-md-4 col-6">
+     <img src="{{ collection.image }}"/>
+    </div>
     {%  endfor %}
   </div>
 </div>
