@@ -10,7 +10,7 @@
     </div>
   </div>
   <div class="row">
-  {% for collection in linklists[page.title].links  %}
+  {% for link in linklists[page.title].links  %}
     {% if link.type == 'collection_link' %}
       {% assign collection = link.object %}
       <div class="col-lg-4 col-md-4 col-6">
