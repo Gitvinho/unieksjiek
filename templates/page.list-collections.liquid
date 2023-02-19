@@ -11,9 +11,12 @@
   </div>
   <div class="row">
   {% for collection in linklists[page.title].links  %}
-    <div class="col-lg-4 col-md-4 col-6">
-     <img src="{{ collection.img }}"/>
-    </div>
-    {%  endfor %}
+    {% if link.type == 'collection_link' %}
+      {% assign collection = link.object %}
+      <div class="col-lg-4 col-md-4 col-6">
+        <img src="{{ collection.image }}"/>
+      </div>
+      {% endif %}
+  {%  endfor %}
   </div>
 </div>
