@@ -49,7 +49,7 @@
           <div class="col-lg-9 col-12">
             <div class="ml-lg-auto d-md-flex d-none">
               {% for usp in themeUsps %}
-              <div class="item text-nowrap text-md-center text-center pr-md-3">
+              <div class="item text-nowrap text-md-left text-center pr-md-3">
                 {% if themeUspUrls[forloop.index0] %}<a href="{{ themeUspUrls[forloop.index0] }}">{%  endif %}
                 <i class="fal {{themeUspIcons[forloop.index0]}}  text-primary align-text-bottom"></i>
                 <span class="nav-link-inner--text">{{ usp }}</span>
@@ -61,7 +61,7 @@
             <div class="d-md-none d-block">
               <div class="owl-mobile-usp owl-carousel owl-carousel">
                 {% for usp in themeUsps %}
-                <div class="item text-nowrap text-md-center text-center pr-md-3">
+                <div class="item text-nowrap text-md-left text-center pr-md-3">
                   <i class="fal fa-{{ themeUspIcons[forloop.index0] }} text-primary align-text-bottom"></i>
                   {{ usp }}
                 </div>
