@@ -1,8 +1,55 @@
 {% schema %}
-  {
-    "name": "Section name",
-    "settings": []
-  }
+{
+  "name": {"nl": "Banners"},
+  "class": "index-section index-section--banners",
+  "settings": [
+	{
+      "type": "range",
+      "id": "cat_rows",
+      "label": {"nl": "Aantal categorieën"},
+      "min": 1,
+      "max": 4,
+      "step": 1,
+      "default": 3
+    }
+  ],
+  "blocks": [
+    {
+      "type": "image",
+      "name": {"nl": "Banner"},
+	  "limit":4,
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": {"nl": "Afbeelding"}
+        },
+        {
+          "type": "text",
+          "id": "button_label",
+          "label": {"nl": "Knoplabel"}
+        },
+        {
+          "type": "url",
+          "id": "button_link",
+          "label": {"nl": "Knoplink"}
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      	"name": {"nl": "test"},
+      	"category": {"nl": "Afbeelding"},
+		"settings": {},
+		"blocks": [
+          {"type": "image"},
+          {"type": "image"},
+          {"type": "image"}
+    	]
+	}
+  ]
+}
 {% endschema %}
 
 {% stylesheet %}
