@@ -1,6 +1,6 @@
 {% if section.settings.message %}
   {% if section.settings.home_page_only == false or request.page_type == 'index' %}
-    <div class="announcement-bar py-1" role="region" aria-label="{{ 'layout.header.announcement_bar_label' | t }}" style="background-color:{{  section.settings.aankondigs_color_bg }};">
+    <div class="announcement-bar py-1 {{ section.settings.bar_alignment }}" role="region" aria-label="{{ 'layout.header.announcement_bar_label' | t }}" style="background-color:{{  section.settings.aankondigs_color_bg }};">
       <div class="container"> 
       {%- unless section.settings.message_link == blank -%}
           <a href="{{ section.settings.message_link }}" class="announcement-bar__link" style="color:{{  section.settings.aankondigs_color_text}}">
