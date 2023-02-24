@@ -83,6 +83,8 @@
       "header": {
         "type": "header",
         "settings": {
+          "bar_alignment": "left",
+          "usp_alignment": "between",
           "align_logo": "left",
           "logo": "shopify:\/\/shop_images\/Logo_website.png",
           "logo_max_width": 250,
@@ -416,39 +418,6 @@
           "show_sidebar": false,
           "show_collection_image": false,
           "sort_enable": false
-        }
-      },
-      "list-collections-template": {
-        "type": "list-collections-template",
-        "blocks": {
-          "19ee765a-efcc-46a7-b2a8-7a9948bd959c": {
-            "type": "collection",
-            "settings": {
-              "collection": "hangen"
-            }
-          },
-          "5fa4b647-39d5-4dc0-abdf-93361ff331f4": {
-            "type": "collection",
-            "settings": {
-              "collection": "staan"
-            }
-          },
-          "6912a43d-32c5-4fa4-a364-f5b36111dbd6": {
-            "type": "collection",
-            "settings": {
-              "collection": "foto-bedrukken-cadeaus"
-            }
-          }
-        },
-        "block_order": [
-          "19ee765a-efcc-46a7-b2a8-7a9948bd959c",
-          "5fa4b647-39d5-4dc0-abdf-93361ff331f4",
-          "6912a43d-32c5-4fa4-a364-f5b36111dbd6"
-        ],
-        "settings": {
-          "display_type": "selected",
-          "sort": "alphabetical",
-          "grid": 3
         }
       },
       "4693b515-42cd-4c37-91ee-74fd0bbb1e02": {
