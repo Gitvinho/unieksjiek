@@ -46,7 +46,7 @@
   <div class="container">
     <div class="navbar-inner">
         <div class="row">
-          <div class="col-12{% if localization.available_countries.size > 1 %} col-lg-9{% endif %}">
+          <div class="col-12{% if localization.available_countries.size > 1 %} col-lg-9{% endif %} {{ enabled_languages_count }}">
             <div class="ml-lg-auto d-md-flex d-none justify-content-{{ section.settings.usp_alignment }}">
               {% for usp in themeUsps %}
               <div class="item text-nowrap text-md-left text-center pr-md-3">
