@@ -47,7 +47,7 @@
     <div class="navbar-inner">
         <div class="row">
           <div class="col-lg-9 col-12">
-            <div class="ml-lg-auto d-md-flex d-none">
+            <div class="ml-lg-auto d-md-flex d-none {{ section.settings.usp_alignment }}">
               {% for usp in themeUsps %}
               <div class="item text-nowrap text-md-left text-center pr-md-3">
                 {% if themeUspUrls[forloop.index0] %}<a href="{{ themeUspUrls[forloop.index0] }}">{%  endif %}
