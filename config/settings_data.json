@@ -90,9 +90,9 @@
           "home_page_only": false,
           "bar_alignment": "center",
           "usp_alignment": "between",
-          "message_text": "Tijdelijk 15% korting op het héle assortiment!",
+          "message_text": "Tijdelijk 15% korting op het héle assortiment met code HVH15",
           "message_link": "shopify:\/\/collections\/all",
-          "aankondigs_color_bg": "#3bc7ff",
+          "aankondigs_color_bg": "#7fdbff",
           "aankondigs_color_text": "#000000"
         }
       },
