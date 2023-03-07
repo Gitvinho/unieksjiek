@@ -132,8 +132,8 @@
             "settings": {
               "title": "Klantenservice",
               "menu": "klantenservice",
-              "title_2": "",
-              "menu_2": ""
+              "title_2": "Mijn account",
+              "menu_2": "mijn-account"
             }
           }
         },
