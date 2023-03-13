@@ -330,7 +330,7 @@
       "1616870854acab16f7": {
         "type": "index-products",
         "settings": {
-          "title": "<b>AANBEVOLEN<\/b>",
+          "title": "AANBEVOLEN",
           "title_text_align": "text-left",
           "title_font_weight": "font-weight-normal",
           "collection": "frontpage"
