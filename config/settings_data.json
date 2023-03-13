@@ -452,6 +452,68 @@
           "title_font_weight": "font-weight-bold",
           "collection": "nieuw"
         }
+      },
+      "26cab035-14a0-40e3-8a88-f9fa592ff901": {
+        "type": "index-brands",
+        "blocks": {
+          "26cab035-14a0-40e3-8a88-f9fa592ff901-1678707174c6cd6d69-0": {
+            "type": "brand_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/WebwinkelKeur.jpg",
+              "title": "",
+              "link": ""
+            }
+          },
+          "26cab035-14a0-40e3-8a88-f9fa592ff901-1678707174c6cd6d69-1": {
+            "type": "brand_image",
+            "settings": {
+              "title": "",
+              "link": ""
+            }
+          },
+          "26cab035-14a0-40e3-8a88-f9fa592ff901-1678707174c6cd6d69-2": {
+            "type": "brand_image",
+            "settings": {
+              "title": "",
+              "link": ""
+            }
+          },
+          "26cab035-14a0-40e3-8a88-f9fa592ff901-1678707174c6cd6d69-3": {
+            "type": "brand_image",
+            "settings": {
+              "title": "",
+              "link": ""
+            }
+          },
+          "26cab035-14a0-40e3-8a88-f9fa592ff901-1678707174c6cd6d69-4": {
+            "type": "brand_image",
+            "settings": {
+              "title": "",
+              "link": ""
+            }
+          },
+          "26cab035-14a0-40e3-8a88-f9fa592ff901-1678707174c6cd6d69-5": {
+            "type": "brand_image",
+            "settings": {
+              "title": "",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "26cab035-14a0-40e3-8a88-f9fa592ff901-1678707174c6cd6d69-0",
+          "26cab035-14a0-40e3-8a88-f9fa592ff901-1678707174c6cd6d69-1",
+          "26cab035-14a0-40e3-8a88-f9fa592ff901-1678707174c6cd6d69-2",
+          "26cab035-14a0-40e3-8a88-f9fa592ff901-1678707174c6cd6d69-3",
+          "26cab035-14a0-40e3-8a88-f9fa592ff901-1678707174c6cd6d69-4",
+          "26cab035-14a0-40e3-8a88-f9fa592ff901-1678707174c6cd6d69-5"
+        ],
+        "settings": {
+          "title": "",
+          "title_text_align": "text-left",
+          "title_font_weight": "font-weight-normal",
+          "brands_titles": false
+        }
       }
     },
     "content_for_index": [
@@ -461,7 +523,8 @@
       "1616870854acab16f7",
       "161687118262c5b574",
       "4693b515-42cd-4c37-91ee-74fd0bbb1e02",
-      "641202c4-bad4-4352-bc78-a00c95d7107d"
+      "641202c4-bad4-4352-bc78-a00c95d7107d",
+      "26cab035-14a0-40e3-8a88-f9fa592ff901"
     ]
   },
   "presets": {
