@@ -443,6 +443,15 @@
         "type": "search-template",
         "settings": {
         }
+      },
+      "641202c4-bad4-4352-bc78-a00c95d7107d": {
+        "type": "index-products",
+        "settings": {
+          "title": "NIEUW",
+          "title_text_align": "text-left",
+          "title_font_weight": "font-weight-bold",
+          "collection": "foto-op-forex"
+        }
       }
     },
     "content_for_index": [
@@ -451,7 +460,8 @@
       "1616861964c499ad32",
       "1616870854acab16f7",
       "161687118262c5b574",
-      "4693b515-42cd-4c37-91ee-74fd0bbb1e02"
+      "4693b515-42cd-4c37-91ee-74fd0bbb1e02",
+      "641202c4-bad4-4352-bc78-a00c95d7107d"
     ]
   },
   "presets": {
