@@ -332,7 +332,7 @@
         "settings": {
           "title": "AANBEVOLEN",
           "title_text_align": "text-left",
-          "title_font_weight": "font-weight-normal",
+          "title_font_weight": "font-weight-bold",
           "collection": "frontpage"
         }
       },
