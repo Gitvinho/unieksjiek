@@ -1,3 +1,4 @@
+<form action="/checkout" method="post" novalidate id="cart-form" class="cart cart-form">
 <div class="container mt-2 mb-4" data-section-id="{{ section.id }}" data-section-type="cart-template" data-ajax-enabled="{{ section.settings.cart_ajax_enable }}">
   {% if cart.item_count == 0 %}
   <div class="empty-page-content{% if cart.item_count > 0 %} hide{% endif %}" data-empty-page-content>
@@ -20,7 +21,6 @@
     </div>
     <div class="row">
       <div class="cart-content col-lg-8">
-        <form action="/checkout" method="post" novalidate id="cart-form" class="cart cart-form">
           <div class="checkout-buttons d-md-none d-block">
             <div class="buttons row align-items-center justify-content-between">
               <div class="col-6">
@@ -247,7 +247,6 @@
           </div>
       	 </div>
          {%- endif -%}
-        </form>
 
       </div>
 	  <div class="cart_review col-lg-4">
@@ -370,6 +369,7 @@
   {% endif %}
   {% endif %}
 </div>
+  </form>
 <script defer src="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.10/handlebars.min.js"></script>
 <script defer src="/services/javascripts/countries.js"></script>
 <script defer src="{{ 'shopify_common.js' | shopify_asset_url }}"></script>
