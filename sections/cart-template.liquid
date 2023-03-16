@@ -236,18 +236,6 @@
               {{ 'cart.general.continue_shopping' | t }}
             </a>
           </div>
-            {%- if section.settings.cart_notes_enable -%}
-        <div class="widget widget-notes cart-notes p-4 border my-4">
-          <div class="title-box"><h2 class="h3">{{ 'cart.label.notes' | t }}</h2></div>
-          <div class="content-box">
-             <cart-note class="cart__note field">
-                <label for="CartSpecialInstructions" class="cart-note__label small--text-center">{{ 'cart.general.note' | t }}</label>
-                <textarea name="note" id="CartSpecialInstructions" class="form-control cart-note__input" data-cart-notes>{{ cart.note }}</textarea>
-             </cart-note>
-          </div>
-      	 </div>
-         {%- endif -%}
-
       </div>
 	  <div class="cart_review col-lg-4">
          <div class="widget widget-cart cart-content p-4 border">
