@@ -22,7 +22,7 @@
 {% endcomment %}
 {% if product.available %}   
         {% if product.variants.size > 1 %}   
-        {{  product.options }}
+        {%  if variant.options.size < 1 %}{{  product.options }}{% endif %}
         <div id="product-variants firstone" class="form-group">   
               <select id="product-select" class="form-control" name='id'>
                 {% for variant in product.variants %}
