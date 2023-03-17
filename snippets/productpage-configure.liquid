@@ -23,7 +23,6 @@
 {% if product.available %}   
         {% if product.variants.size > 1 %}   
         {{  product.options }}
-          {{ product_option.name }}
         <div id="product-variants firstone" class="form-group">   
               <select id="product-select" class="form-control" name='id'>
                 {% for variant in product.variants %}
