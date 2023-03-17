@@ -22,7 +22,8 @@
 {% endcomment %}
 {% if product.available %}    
         {% if product.variants.size > 1 %}     
-        {{  product.variant.title }}
+        {{ 'test' }}
+        {{  product.option1 }}
         <div id="product-variants" class="form-group">   
               <select id="product-select" class="form-control" name='id'>
                 {% for variant in product.variants %}
