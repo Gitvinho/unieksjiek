@@ -21,7 +21,7 @@
 </select>
 {% endcomment %}
 {% if product.available %}    
-{%  liquid  echo product.variants.first.title %}
+{%  liquid  echo product.variants.first %}
         {% if product.variants.size > 1 %}     
         <div id="product-variants" class="form-group">   
               <select id="product-select" class="form-control" name='id'>
