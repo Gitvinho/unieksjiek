@@ -30,12 +30,13 @@
               </select>
         </div>   
             {% else %}  
-            {{  product_options }}
+            {%  liquid  echo product.options %}
         <div class="what-is-it">
             {% if product.options.first != 'Title' %}
             <label>{{ product.options.first }}:</label>{% for variant in product.variants %}<span class="it-is">{{ variant.option1 | escape }}</span>{% endfor %}
             {% endif %}
         </div>
+        {%  liquid  echo product.options %}
         <div id="product-variants"></div><!-- product variants -->  
             <input  type="hidden" id="{{ variant.id }}" name="id" value="{{ product.variants[0].id }}" />
 
