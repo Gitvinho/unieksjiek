@@ -30,6 +30,7 @@
               </select>
         </div>   
             {% else %}  
+            {{  product_options }}
         <div class="what-is-it">
             {% if product.options.first != 'Title' %}
             <label>{{ product.options.first }}:</label>{% for variant in product.variants %}<span class="it-is">{{ variant.option1 | escape }}</span>{% endfor %}
