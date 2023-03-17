@@ -21,9 +21,10 @@
 </select>
 {% endcomment %}
 {% if product.available %}    
+{%  liquid
+   echo product.variants
+%}
         {% if product.variants.size > 1 %}     
-        {{ 'test' }}
-        {{  product.option1 }}
         <div id="product-variants" class="form-group">   
               <select id="product-select" class="form-control" name='id'>
                 {% for variant in product.variants %}
@@ -37,6 +38,7 @@
             <label>{{ product.options.first }}:</label>{% for variant in product.variants %}<span class="it-is">{{ variant.option1 | escape }}</span>{% endfor %}
             {% endif %}
         </div>
+        {{ product. }}
         <div id="product-variants"></div><!-- product variants -->  
             <input  type="hidden" id="{{ variant.id }}" name="id" value="{{ product.variants[0].id }}" />
 
