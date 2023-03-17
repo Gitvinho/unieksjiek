@@ -21,8 +21,6 @@
 </select>
 {% endcomment %}
 {% if product.available %}   
-{%  echo product_option.values %}
-{%  if product_options.size < 1 %}test{% endif %}
         {% if product.variants.size > 1 %}     
         <div id="product-variants" class="form-group">   
               <select id="product-select" class="form-control" name='id'>
