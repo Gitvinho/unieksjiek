@@ -344,7 +344,7 @@
             "settings": {
               "usp_icon": "check",
               "usp": "Foto op hout",
-              "usp_desc": "Shop leuke ideeën!",
+              "usp_desc": "Gave wanddecoraties",
               "usp_url": "shopify:\/\/collections\/foto-op-hout"
             }
           },
@@ -384,7 +384,7 @@
         ],
         "settings": {
           "show_usp_desc": true,
-          "color_usp_bg": "#ebebeb",
+          "color_usp_bg": "#7c6659",
           "icon_set": "fontawesome"
         }
       },
