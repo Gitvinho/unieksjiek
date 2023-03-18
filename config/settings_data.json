@@ -384,7 +384,7 @@
         ],
         "settings": {
           "show_usp_desc": true,
-          "color_usp_bg": "#7c6659",
+          "color_usp_bg": "#dcc5bd",
           "icon_set": "fontawesome"
         }
       },
