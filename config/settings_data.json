@@ -93,7 +93,8 @@
           "message_text": "Tijdelijk 15% korting op het héle assortiment met code HVH15",
           "message_link": "shopify:\/\/collections\/all",
           "aankondigs_color_bg": "#dcc5bd",
-          "aankondigs_color_text": "#000000"
+          "aankondigs_color_text": "#000000",
+          "hallmark": "shopify:\/\/shop_images\/WebwinkelKeur.jpg"
         }
       },
       "footer": {
