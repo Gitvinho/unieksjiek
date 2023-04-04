@@ -675,7 +675,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      "@media (max-width: 1199px) {.res-menu.d-lg-none.d-block.mr-3{display: none; } .navbar .hallmark {display: none; }}"
+      "@media (max-width: 1199px) {.res-menu {display: none!important; } .navbar .hallmark {display: none; }}"
     ]
   }
 }
