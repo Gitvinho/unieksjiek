@@ -64,7 +64,8 @@
   	<link rel="stylesheet" type="text/css" href="{{ 'css-variables.css' | asset_url }}" media="all">
 	<script src="{{ 'js-jquery.min.js' | asset_url }}"></script>
   	{{ content_for_header }}
-</head>
+{% include 'script-tag-google-tag---in-header-2751' %} 
+</head> 
 
 <body>
     <div id="wrapper" class="wrapper overflow-hidden{% case template %}{% when 'index' %} index {% when 'collection' %} collection{% when 'blog' %} blog-blog{% when 'article' %} blog-article{% when 'cart' %} checkout-cart{% when 'customers/login' %} account-login{% else %}{% endcase %}">
