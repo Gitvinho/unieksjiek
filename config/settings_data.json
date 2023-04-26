@@ -165,14 +165,14 @@
       "1616861933ddaffe7f": {
         "type": "index-slider",
         "blocks": {
-          "93187a38-db3c-480c-addc-680d9d159b85": {
+          "826b51b0-cc1b-453f-b5ea-768c65e9d068": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Slider_unieksjiek_2.png",
-              "slide_title": "",
-              "subheading": "",
-              "button_label": "SHOP NU!",
-              "button_link": "shopify:\/\/collections\/all"
+              "image": "shopify:\/\/shop_images\/Slider_unieksjiek_5.png",
+              "slide_title": "Voer hier je tekst in",
+              "subheading": "Vertel met afbeeldingen het verhaal van je merk",
+              "button_label": "KONINGSACTIE",
+              "button_link": ""
             }
           },
           "4bc14805-953c-4edb-b933-4e3ea2c4c5ea": {
@@ -183,6 +183,16 @@
               "subheading": "",
               "button_label": "BEKIJKEN",
               "button_link": "shopify:\/\/collections\/foto-op-hout"
+            }
+          },
+          "93187a38-db3c-480c-addc-680d9d159b85": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Slider_unieksjiek_2.png",
+              "slide_title": "",
+              "subheading": "",
+              "button_label": "SHOP NU!",
+              "button_link": "shopify:\/\/collections\/all"
             }
           },
           "1616861933ddaffe7f-0": {
@@ -207,8 +217,9 @@
           }
         },
         "block_order": [
-          "93187a38-db3c-480c-addc-680d9d159b85",
+          "826b51b0-cc1b-453f-b5ea-768c65e9d068",
           "4bc14805-953c-4edb-b933-4e3ea2c4c5ea",
+          "93187a38-db3c-480c-addc-680d9d159b85",
           "1616861933ddaffe7f-0",
           "6ebf4fa5-c6c0-419e-bb19-7cdcaba9bba0"
         ],
