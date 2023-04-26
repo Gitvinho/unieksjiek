@@ -90,9 +90,9 @@
           "home_page_only": false,
           "bar_alignment": "center",
           "usp_alignment": "between",
-          "message_text": "Tijdelijk 15% korting op het héle assortiment met code HVH15",
+          "message_text": "Koningsdagactie! Nu 15% korting met code KONING23",
           "message_link": "shopify:\/\/collections\/all",
-          "aankondigs_color_bg": "#dcc5bd",
+          "aankondigs_color_bg": "#f97000",
           "aankondigs_color_text": "#000000",
           "hallmark": "shopify:\/\/shop_images\/WebwinkelKeur_1652997600.svg"
         }
@@ -675,7 +675,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      "@media (max-width: 1199px) {.res-menu {display: none !important; } .navbar .hallmark {display: none; } #header .nav-icons nav {justify-content: flex-end; align-items: flex-start; margin-right:10px; }}"
+      "@media (max-width: 1199px) {.res-menu {display: none !important; } .navbar .hallmark {display: none; } #header .nav-icons nav {justify-content: flex-end; align-items: flex-start; margin-right: 10px; }}"
     ]
   }
 }
