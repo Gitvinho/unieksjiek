@@ -90,7 +90,7 @@
           "home_page_only": false,
           "bar_alignment": "center",
           "usp_alignment": "between",
-          "message_text": "Koningsdagactie! 25% korting met code KONING23 t\/m 29 april 2023",
+          "message_text": "Koningsdagactie! 25% korting met code 𝗞𝗢𝗡𝗜𝗡𝗚𝟮𝟯 t\/m 29 april 2023",
           "message_link": "shopify:\/\/collections\/all",
           "aankondigs_color_bg": "#c38820",
           "aankondigs_color_text": "#ffffff",
@@ -202,23 +202,13 @@
               "button_label": "SAMENSTELLEN",
               "button_link": "shopify:\/\/products\/naamslinger"
             }
-          },
-          "6ebf4fa5-c6c0-419e-bb19-7cdcaba9bba0": {
-            "type": "image",
-            "settings": {
-              "slide_title": "",
-              "subheading": "",
-              "button_label": "BEDRUKTE WIJNKISTEN",
-              "button_link": "shopify:\/\/collections\/wijnkisten"
-            }
           }
         },
         "block_order": [
           "826b51b0-cc1b-453f-b5ea-768c65e9d068",
           "4bc14805-953c-4edb-b933-4e3ea2c4c5ea",
           "93187a38-db3c-480c-addc-680d9d159b85",
-          "1616861933ddaffe7f-0",
-          "6ebf4fa5-c6c0-419e-bb19-7cdcaba9bba0"
+          "1616861933ddaffe7f-0"
         ],
         "settings": {
           "homepage_style": "service",
