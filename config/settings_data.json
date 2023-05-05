@@ -165,10 +165,19 @@
       "1616861933ddaffe7f": {
         "type": "index-slider",
         "blocks": {
+          "1616861933ddaffe7f-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Banner_Moederdag.png",
+              "slide_title": "",
+              "subheading": "",
+              "button_label": "Bekijk nu",
+              "button_link": "shopify:\/\/collections\/foto-op-forex"
+            }
+          },
           "4bc14805-953c-4edb-b933-4e3ea2c4c5ea": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Banner_webshop_v1_2.png",
               "slide_title": "",
               "subheading": "",
               "button_label": "BEKIJKEN",
@@ -178,7 +187,6 @@
           "93187a38-db3c-480c-addc-680d9d159b85": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Slider_unieksjiek_2.png",
               "slide_title": "",
               "subheading": "",
               "button_label": "SHOP NU!",
@@ -193,22 +201,13 @@
               "button_label": "KONINGSACTIE",
               "button_link": ""
             }
-          },
-          "1616861933ddaffe7f-0": {
-            "type": "image",
-            "settings": {
-              "slide_title": "",
-              "subheading": "",
-              "button_label": "SAMENSTELLEN",
-              "button_link": "shopify:\/\/products\/naamslinger"
-            }
           }
         },
         "block_order": [
+          "1616861933ddaffe7f-0",
           "4bc14805-953c-4edb-b933-4e3ea2c4c5ea",
           "93187a38-db3c-480c-addc-680d9d159b85",
-          "826b51b0-cc1b-453f-b5ea-768c65e9d068",
-          "1616861933ddaffe7f-0"
+          "826b51b0-cc1b-453f-b5ea-768c65e9d068"
         ],
         "settings": {
           "homepage_style": "service",
