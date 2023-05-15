@@ -165,16 +165,6 @@
       "1616861933ddaffe7f": {
         "type": "index-slider",
         "blocks": {
-          "1616861933ddaffe7f-0": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/Banner_Moederdag_3ecdf5d4-2f24-4971-b0ea-0388a39111fa.png",
-              "slide_title": "",
-              "subheading": "",
-              "button_label": "Bekijk nu",
-              "button_link": "shopify:\/\/collections\/moederdag"
-            }
-          },
           "4bc14805-953c-4edb-b933-4e3ea2c4c5ea": {
             "type": "image",
             "settings": {
@@ -183,6 +173,15 @@
               "subheading": "",
               "button_label": "BEKIJK NU",
               "button_link": "shopify:\/\/collections\/foto-op-hout"
+            }
+          },
+          "1616861933ddaffe7f-0": {
+            "type": "image",
+            "settings": {
+              "slide_title": "",
+              "subheading": "",
+              "button_label": "Bekijk nu",
+              "button_link": "shopify:\/\/collections\/moederdag"
             }
           },
           "93187a38-db3c-480c-addc-680d9d159b85": {
@@ -205,8 +204,8 @@
           }
         },
         "block_order": [
-          "1616861933ddaffe7f-0",
           "4bc14805-953c-4edb-b933-4e3ea2c4c5ea",
+          "1616861933ddaffe7f-0",
           "93187a38-db3c-480c-addc-680d9d159b85",
           "826b51b0-cc1b-453f-b5ea-768c65e9d068"
         ],
