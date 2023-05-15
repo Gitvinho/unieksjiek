@@ -178,9 +178,10 @@
           "4bc14805-953c-4edb-b933-4e3ea2c4c5ea": {
             "type": "image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/Banner_webshop_v1_2.png",
               "slide_title": "",
               "subheading": "",
-              "button_label": "BEKIJKEN",
+              "button_label": "BEKIJK NU",
               "button_link": "shopify:\/\/collections\/foto-op-hout"
             }
           },
