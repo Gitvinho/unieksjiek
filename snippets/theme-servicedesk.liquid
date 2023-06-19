@@ -41,7 +41,7 @@
       <div class="page" data-index="{{ loop.index }}">
         <ul class="list-unstyled mb-0">
            <li class="whatsapp mb-3">
-              <a href="https://api.whatsapp.com/send?phone={{ section.settings.whatsapp | replace: '31085-', '085 ' }}" target="_blank" class="info info-horizontal mct_whatsapp_btn text-body d-inline-flex align-items-center p-0" title="{{ 'Whatsapp' | t }}">
+              <a href="https://api.whatsapp.com/send?phone={{ section.settings.whatsapp | replace: '-', '' }}" target="_blank" class="info info-horizontal mct_whatsapp_btn text-body d-inline-flex align-items-center p-0" title="{{ 'Whatsapp' | t }}">
                 <div class="icon icon-shape icon-shape-info{% if settings.show_btn_gradient %} bg-gradient-primary text-white{% endif %} rounded-circle"> 
                     <i class="fa fa-lg fa-whatsapp"></i>
                 </div>
