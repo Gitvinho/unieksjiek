@@ -86,13 +86,13 @@
           "align_logo": "left",
           "logo": "shopify:\/\/shop_images\/Logo_website.png",
           "logo_max_width": 250,
-          "message": false,
+          "message": true,
           "home_page_only": false,
           "bar_alignment": "center",
           "usp_alignment": "between",
-          "message_text": "Koningsdagactie! 25% korting met code 𝗞𝗢𝗡𝗜𝗡𝗚𝟮𝟯",
+          "message_text": "Uw bestelling wordt uiterlijk op 5 augustus verzonden vanwege onze vakantie",
           "message_link": "shopify:\/\/collections\/all",
-          "aankondigs_color_bg": "#c38820",
+          "aankondigs_color_bg": "#7d9d88",
           "aankondigs_color_text": "#ffffff",
           "hallmark": "shopify:\/\/shop_images\/WebwinkelKeur_1652997600.svg"
         }
