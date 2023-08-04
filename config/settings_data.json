@@ -86,7 +86,7 @@
           "align_logo": "left",
           "logo": "shopify:\/\/shop_images\/Logo_website.png",
           "logo_max_width": 250,
-          "message": true,
+          "message": false,
           "home_page_only": false,
           "bar_alignment": "center",
           "usp_alignment": "between",
