@@ -42,7 +42,7 @@
     "product_price_display": "with_currency",
     "contact_title": "Unieksjiek.nl",
     "contact_adres": "De Wacht 8A 3295 KB 's-Gravendeel",
-    "contact_phone": "085-2129182",
+    "contact_phone": "06-57547608",
     "contact_email": "info@unieksjiek.nl",
     "share_facebook": true,
     "share_twitter": false,
@@ -449,6 +449,15 @@
           "title_text_align": "text-left",
           "title_font_weight": "font-weight-bold",
           "collection": "nieuw"
+        }
+      },
+      "servicepage-template": {
+        "type": "servicepage-template",
+        "settings": {
+          "grid": 4,
+          "rows": 4,
+          "show_collection_image": true,
+          "sort_enable": true
         }
       }
     },
