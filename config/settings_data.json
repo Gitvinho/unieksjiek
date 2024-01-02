@@ -165,23 +165,14 @@
       "1616861933ddaffe7f": {
         "type": "index-slider",
         "blocks": {
-          "1616861933ddaffe7f-0": {
-            "type": "image",
-            "settings": {
-              "image": "shopify:\/\/shop_images\/Slider_1_1_gratis_actie.png",
-              "slide_title": "",
-              "subheading": "",
-              "button_label": "",
-              "button_link": "shopify:\/\/collections\/foto-ophangen-hout"
-            }
-          },
           "4bc14805-953c-4edb-b933-4e3ea2c4c5ea": {
             "type": "image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/Slider_unieksjiek_2.png",
               "slide_title": "",
               "subheading": "",
               "button_label": "BEKIJK NU",
-              "button_link": "shopify:\/\/collections\/foto-op-hout"
+              "button_link": "shopify:\/\/collections"
             }
           },
           "93187a38-db3c-480c-addc-680d9d159b85": {
@@ -204,7 +195,6 @@
           }
         },
         "block_order": [
-          "1616861933ddaffe7f-0",
           "4bc14805-953c-4edb-b933-4e3ea2c4c5ea",
           "93187a38-db3c-480c-addc-680d9d159b85",
           "826b51b0-cc1b-453f-b5ea-768c65e9d068"
@@ -483,9 +473,9 @@
         "settings": {
           "button_color": "#2dce89",
           "button_icon": "chat_bubble",
+          "button_text": "no_text",
           "button_horizontal_position": "bottom_left",
           "button_vertical_position": "lowest",
-          "button_text": "no_text",
           "greeting_message": "👋 Hallo, stel hier al je vragen die je hebt over unieksjiek.nl. Hoe kan ik je helpen?"
         }
       }
